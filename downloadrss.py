@@ -22,6 +22,7 @@ def GetDocumentList(url):
 
     with open(filename) as fd:
         xml = xmltodict.parse(fd.read())
+    os.remove(filename)
 
     Documents = xml['rss']['channel']['item']
 
