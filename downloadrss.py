@@ -1,26 +1,55 @@
-if not(os.path.isfile(fname)):
-    print 'fetching'
+# DownloadRss.py
+#
+# Downloads all of the attachments from an RSS, feed. Designed for podcasts but could work on any type of RSS feed
+#
+import sys
+import xmltodict
+import requests
+import os
+
+# Downloads a file from an RSS 
+#
+def GetDocumentList(url):
+    #if os.path.isfile(filename):
+    #    print(f"{filename} already exists, skipping...")
+
+    print(f'Downloading {url}')
+
+    filename = 'tempcache.db'
     r = requests.get(url)
-    f = open(fname, 'wb')
-    f.write(r.text.encode('utf-8'))
-    f.close()
+    with open(filename, 'wb') as f:
+        f.write(r.text.encode('utf-8'))
 
-with open(fname) as fd:
-    xml = xmltodict.parse(fd.read())
+    with open(filename) as fd:
+        xml = xmltodict.parse(fd.read())
 
-episodes = xml['rss']['channel']['item']
+    Documents = xml['rss']['channel']['item']
 
-print(len(episodes))
+    print(f'{len(Documents)} documents found in the feed')
 
-for episode in episodes:
-    url = episode['enclosure']['@url']
+    return Documents
+
+# Downloads an individual document
+#
+def DownloadDocument(Document):
+    url = Document['enclosure']['@url']
     i = url.find('?')
     if i != -1:
         url = url[0:i]
     i = url.rfind('/')
-    fname = destination_directory + '/' + url[i+1:]
-    if not(os.path.isfile(fname)):
-        r = requests.get(url)
-        f = open(fname, 'wb')
+    fname = url[i+1:]
+    
+    if os.path.isfile(fname):
+        print(f'{fname} already exists, skipping...')
+        return
+    
+    print(f'Downloading {url} into {fname}')
+    r = requests.get(url)
+    with open(fname, 'wb') as f:
         f.write(r.content)
-        f.close()
+
+# Main code for the script
+#
+DocumentList = GetDocumentList(sys.argv[1])
+for Document in DocumentList:
+    DownloadDocument(Document)

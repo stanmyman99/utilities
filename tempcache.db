@@ -1,0 +1,4387 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+      <channel>
+        <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:261098918/sounds.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:261098918/sounds.rss?before=1214043556" rel="next" type="application/rss+xml"/>
+        <title>The Privacy, Security, &amp; OSINT Show</title>
+        <link>https://soundcloud.com/user-98066669</link>
+        <pubDate>Mon, 03 Jul 2023 20:57:39 +0000</pubDate>
+        <lastBuildDate>Mon, 03 Jul 2023 20:57:39 +0000</lastBuildDate>
+        <ttl>60</ttl>
+        <language>en</language>
+        <copyright>All rights reserved</copyright>
+        <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
+        <description>Your occasional dose of privacy, digital security, and open source intelligence (OSINT) news and opinion.</description>
+        <itunes:subtitle>Your occasional dose of privacy, digital security…</itunes:subtitle>
+        <itunes:owner>
+          <itunes:name>The Privacy, Security, &amp; OSINT Show</itunes:name>
+          <itunes:email>feeds@soundcloud.com</itunes:email>
+        </itunes:owner>
+        <itunes:author>Michael Bazzell</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://i1.sndcdn.com/avatars-zbby8YcOFKxbVzJ2-mg7gNw-original.jpg"/>
+        <image>
+          <url>https://i1.sndcdn.com/avatars-zbby8YcOFKxbVzJ2-mg7gNw-original.jpg</url>
+          <title>The Privacy, Security, &amp; OSINT Show</title>
+          <link>https://soundcloud.com/user-98066669</link>
+        </image>
+        <itunes:category text="Technology"/>
+        <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1555414801</guid>
+      <title>303-iOS Privacy &amp; Security</title>
+      <pubDate>Fri, 07 Jul 2023 13:27:56 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/303-ios-privacy-security</link>
+      <itunes:duration>00:43:14</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week we take a brief break from the self-hosting series and revisit iOS privacy and security.
+
+Direct support for this podcast comes from our privacy services, online training, and latest books. More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+None
+
+iOS PRIVACY &amp; SECURITY:
+
+https://inteltechniques.com/book7a.html
+Benefits of iOS
+Risks of iOS
+Privacy &amp; Security Considerations
+Settings
+Remove unused stock apps
+App Store login vs iCloud login
+App funding
+DNS: https://nextdns.io/
+Calendars &amp; Contacts: https://www.etesync.com/
+Password Manager: https://strongboxsafe.com/
+VoIP App: https://acrobits.net/
+VoIP Service: https://voip.ms/en/invite/Mzc2NjM3
+Data Service: https://refer.telnyx.com/refer/zrfmo
+Custom App Settings
+Shortcuts for Home Screen
+Next Week
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate/Referral Links:
+OSINT Techniques (10th): https://amzn.to/3VIlP74
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+Fastmail: https://ref.fm/u14547153
+VoIP.ms: https://voip.ms/en/invite/Mzc2NjM3
+Telnyx: https://refer.telnyx.com/refer/zrfmo
+Silent Pocket: https://slnt.com/discount/IntelTechniques</itunes:summary>
+      <itunes:subtitle>This week we take a brief break from the self-hos…</itunes:subtitle>
+      <description>This week we take a brief break from the self-hosting series and revisit iOS privacy and security.
+
+Direct support for this podcast comes from our privacy services, online training, and latest books. More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+None
+
+iOS PRIVACY &amp; SECURITY:
+
+https://inteltechniques.com/book7a.html
+Benefits of iOS
+Risks of iOS
+Privacy &amp; Security Considerations
+Settings
+Remove unused stock apps
+App Store login vs iCloud login
+App funding
+DNS: https://nextdns.io/
+Calendars &amp; Contacts: https://www.etesync.com/
+Password Manager: https://strongboxsafe.com/
+VoIP App: https://acrobits.net/
+VoIP Service: https://voip.ms/en/invite/Mzc2NjM3
+Data Service: https://refer.telnyx.com/refer/zrfmo
+Custom App Settings
+Shortcuts for Home Screen
+Next Week
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate/Referral Links:
+OSINT Techniques (10th): https://amzn.to/3VIlP74
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+Fastmail: https://ref.fm/u14547153
+VoIP.ms: https://voip.ms/en/invite/Mzc2NjM3
+Telnyx: https://refer.telnyx.com/refer/zrfmo
+Silent Pocket: https://slnt.com/discount/IntelTechniques</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1555414801-user-98066669-303-ios-privacy-security.mp3" length="41505853"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-y9AmJgn6b0Y26sy1-a2jUzA-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1553627806</guid>
+      <title>302-Self-Hosted 4: The Next Level</title>
+      <pubDate>Fri, 30 Jun 2023 14:17:40 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/302-self-hosted-4-the-next-level</link>
+      <itunes:duration>00:34:55</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week I continue the self-hosted series with a discussion about password managers, 2FA, Docs, Photos, Backups, Comms, and Media.
+
+Direct support for this podcast comes from our privacy services, online training, and latest books. More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+None
+
+SELF-HOSTED 4: THE NEXT LEVEL:
+
+https://keepassxc.org/
+https://bitwarden.com/help/install-on-premise-linux/
+https://bitwarden.com/help/licensing-on-premise/
+https://bitwarden.com/blog/new-deployment-option-for-self-hosting-bitwarden/
+https://standardnotes.com/help/self-hosting/getting-started
+https://syncthing.net/
+https://photostructure.com/server/photostructure-for-servers/
+https://freefilesync.org/
+https://element.io/solutions/self-hosted-or-cloud-collaboration
+https://kodi.tv/
+https://jellyfin.org/
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+OSINT Techniques (10th): https://amzn.to/3VIlP74
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</itunes:summary>
+      <itunes:subtitle>This week I continue the self-hosted series with …</itunes:subtitle>
+      <description>This week I continue the self-hosted series with a discussion about password managers, 2FA, Docs, Photos, Backups, Comms, and Media.
+
+Direct support for this podcast comes from our privacy services, online training, and latest books. More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+None
+
+SELF-HOSTED 4: THE NEXT LEVEL:
+
+https://keepassxc.org/
+https://bitwarden.com/help/install-on-premise-linux/
+https://bitwarden.com/help/licensing-on-premise/
+https://bitwarden.com/blog/new-deployment-option-for-self-hosting-bitwarden/
+https://standardnotes.com/help/self-hosting/getting-started
+https://syncthing.net/
+https://photostructure.com/server/photostructure-for-servers/
+https://freefilesync.org/
+https://element.io/solutions/self-hosted-or-cloud-collaboration
+https://kodi.tv/
+https://jellyfin.org/
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+OSINT Techniques (10th): https://amzn.to/3VIlP74
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1553627806-user-98066669-302-self-hosted-4-the-next-level.mp3" length="33534118"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-HnXUyyxHvnVKuXXu-NJk4Kg-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1547994979</guid>
+      <title>301-Self-Hosted 3: Calendars, Contacts, &amp; Notes</title>
+      <pubDate>Fri, 23 Jun 2023 13:48:33 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/301-self-hosted-3-calendars-contacts-notes</link>
+      <itunes:duration>00:44:19</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week I continue the Self-Hosting series with a discussion about Calendars, Contacts, and Notes.
+
+Direct support for this podcast comes from our privacy services, online training, and latest books. More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+System 76 Leak
+https://inteltechniques.com/book7a.html
+
+SELF-HOSTED 3: CALENDARS, CONTACTS, &amp; NOTES:
+
+https://www.etebase.com/
+https://github.com/etesync/server
+https://www.etesync.com/
+https://standardnotes.com/help/self-hosting/getting-started
+https://standardnotes.com/help/self-hosting/docker
+https://www.cloudflare.com/products/tunnel/
+https://tailscale.comhttps://github.com/juanfont/headscale
+https://goteleport.com/
+https://github.com/slackhq/nebula
+https://www.zerotier.com/
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+OSINT Techniques (10th): https://amzn.to/3VIlP74
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</itunes:summary>
+      <itunes:subtitle>This week I continue the Self-Hosting series with…</itunes:subtitle>
+      <description>This week I continue the Self-Hosting series with a discussion about Calendars, Contacts, and Notes.
+
+Direct support for this podcast comes from our privacy services, online training, and latest books. More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+System 76 Leak
+https://inteltechniques.com/book7a.html
+
+SELF-HOSTED 3: CALENDARS, CONTACTS, &amp; NOTES:
+
+https://www.etebase.com/
+https://github.com/etesync/server
+https://www.etesync.com/
+https://standardnotes.com/help/self-hosting/getting-started
+https://standardnotes.com/help/self-hosting/docker
+https://www.cloudflare.com/products/tunnel/
+https://tailscale.comhttps://github.com/juanfont/headscale
+https://goteleport.com/
+https://github.com/slackhq/nebula
+https://www.zerotier.com/
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+OSINT Techniques (10th): https://amzn.to/3VIlP74
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1547994979-user-98066669-301-self-hosted-3-calendars-contacts-notes.mp3" length="42547408"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-HnXUyyxHvnVKuXXu-NJk4Kg-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1541980267</guid>
+      <title>300-Self-Hosted 2: Offline Knowledge</title>
+      <pubDate>Fri, 16 Jun 2023 13:36:42 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/300-self-hosted-2-offline-knowledge</link>
+      <itunes:duration>00:29:30</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week I continue the self-hosted series with several easy options from which anyone can benefit. Let's archive some powerful data for offline use.
+
+Direct support for this podcast comes from our privacy services, online training, and latest books. More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+None
+
+SELF-HOSTED 2: Offline Knowledge
+
+https://www.kiwix.org/en/
+https://library.kiwix.org/?lang=eng&amp;q=wiki
+https://download.kiwix.org/zim/wikipedia/wikipedia_en_all_maxi_2023-05.zim
+https://download.kiwix.org/zim/wiktionary/wiktionary_en_all_maxi_2023-04.zim
+https://download.kiwix.org/zim/other/mdwiki_en_all_maxi_2023-06.zim
+https://download.kiwix.org/zim/other/zimgit-medicine_en_2022-03.zim
+https://download.kiwix.org/zim/other/wikem_en_all_maxi_2021-02.zim
+https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2022-05.zim
+https://download.kiwix.org/zim/ifixit/ifixit_en_all_2023-04.zim
+https://download.kiwix.org/zim/gutenberg/gutenberg_en_all_2023-05.zim
+https://download.kiwix.org/zim/stack_exchange/mechanics.stackexchange.com_en_all_2023-05.zim
+https://download.kiwix.org/zim/videos/urban-prepper_en_all_2023-02.zim
+https://download.kiwix.org/zim/zimit/opentextbooks_en_all_2023-05.zim
+https://download.kiwix.org/zim/other/zimgit-food-preparation_en_2022-03.zim
+
+https://calibre-ebook.com/
+https://ia800207.us.archive.org/33/items/WhereThereIsNoDoctor-English-DavidWerner/14.DavidWerner-WhereThereIsNoDoctor.pdf
+https://ia800209.us.archive.org/10/items/Where_There_is_no_Dentist/Where_There_is_no_Dentist.pdf
+https://survivallife.com/Ultimate-Survival-Skills-Guide.pdf
+https://www.trueprepper.com/wp-content/uploads/2022/12/Shelters-Shacks-and-Shanties.pdf
+https://www.trueprepper.com/wp-content/uploads/2022/12/LDS-Preparedness-Manual.pdf
+https://pack365.org/wp-content/uploads/2020/03/BasicScoutKnots-All.pdf
+http://www.survivorlibrary.com/library/edible-wild-plants.pdf
+https://www.researchgate.net/profile/Dr-Rajkumar-Yadav/publication/322210506_EDIBLE_MUSHROOMS/links/5a4bbf790f7e9b8284c2ded5/EDIBLE-MUSHROOMS.pdf
+http://www.survivorlibrary.com/library/vegetable-garden-encyclopedia.pdf
+https://seasonedcitizenprepper.com/wp-content/uploads/2014/02/SODIS-manual.pdf
+https://graywolfsurvival.com/wp-content/uploads/Water_-_Water_Treatment.pdf
+https://apps.who.int/iris/bitstream/handle/10665/42052/9789241547024_eng.pdf
+https://www.redcross.org/content/dam/redcross/atg/PDFs/Take_a_Class/FA_CPR_AED_PM_sample_chapter.pdf
+http://www.survivorlibrary.com/library/survival-medicine.pdf
+https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN35831-TM_3-34.47-000-WEB-1.pdf
+http://www.cutelariaartesanal.com.br/downloads/Carpentry_Training_Manual.pdf
+https://www.sherriallen.com/gardenhandbook.pdfhttps://www.fao.org/3/i3556e/i3556e.pdf
+https://www.almanac.com/sites/default/files/webform/pdf/almanac-start-a-garden.pdf
+
+https://f-droid.org/en/packages/net.osmand.plus/
+https://mealie.io/
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+OSINT Techniques (10th): https://amzn.to/3VIlP74
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</itunes:summary>
+      <itunes:subtitle>This week I continue the self-hosted series with …</itunes:subtitle>
+      <description>This week I continue the self-hosted series with several easy options from which anyone can benefit. Let's archive some powerful data for offline use.
+
+Direct support for this podcast comes from our privacy services, online training, and latest books. More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+None
+
+SELF-HOSTED 2: Offline Knowledge
+
+https://www.kiwix.org/en/
+https://library.kiwix.org/?lang=eng&amp;q=wiki
+https://download.kiwix.org/zim/wikipedia/wikipedia_en_all_maxi_2023-05.zim
+https://download.kiwix.org/zim/wiktionary/wiktionary_en_all_maxi_2023-04.zim
+https://download.kiwix.org/zim/other/mdwiki_en_all_maxi_2023-06.zim
+https://download.kiwix.org/zim/other/zimgit-medicine_en_2022-03.zim
+https://download.kiwix.org/zim/other/wikem_en_all_maxi_2021-02.zim
+https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2022-05.zim
+https://download.kiwix.org/zim/ifixit/ifixit_en_all_2023-04.zim
+https://download.kiwix.org/zim/gutenberg/gutenberg_en_all_2023-05.zim
+https://download.kiwix.org/zim/stack_exchange/mechanics.stackexchange.com_en_all_2023-05.zim
+https://download.kiwix.org/zim/videos/urban-prepper_en_all_2023-02.zim
+https://download.kiwix.org/zim/zimit/opentextbooks_en_all_2023-05.zim
+https://download.kiwix.org/zim/other/zimgit-food-preparation_en_2022-03.zim
+
+https://calibre-ebook.com/
+https://ia800207.us.archive.org/33/items/WhereThereIsNoDoctor-English-DavidWerner/14.DavidWerner-WhereThereIsNoDoctor.pdf
+https://ia800209.us.archive.org/10/items/Where_There_is_no_Dentist/Where_There_is_no_Dentist.pdf
+https://survivallife.com/Ultimate-Survival-Skills-Guide.pdf
+https://www.trueprepper.com/wp-content/uploads/2022/12/Shelters-Shacks-and-Shanties.pdf
+https://www.trueprepper.com/wp-content/uploads/2022/12/LDS-Preparedness-Manual.pdf
+https://pack365.org/wp-content/uploads/2020/03/BasicScoutKnots-All.pdf
+http://www.survivorlibrary.com/library/edible-wild-plants.pdf
+https://www.researchgate.net/profile/Dr-Rajkumar-Yadav/publication/322210506_EDIBLE_MUSHROOMS/links/5a4bbf790f7e9b8284c2ded5/EDIBLE-MUSHROOMS.pdf
+http://www.survivorlibrary.com/library/vegetable-garden-encyclopedia.pdf
+https://seasonedcitizenprepper.com/wp-content/uploads/2014/02/SODIS-manual.pdf
+https://graywolfsurvival.com/wp-content/uploads/Water_-_Water_Treatment.pdf
+https://apps.who.int/iris/bitstream/handle/10665/42052/9789241547024_eng.pdf
+https://www.redcross.org/content/dam/redcross/atg/PDFs/Take_a_Class/FA_CPR_AED_PM_sample_chapter.pdf
+http://www.survivorlibrary.com/library/survival-medicine.pdf
+https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN35831-TM_3-34.47-000-WEB-1.pdf
+http://www.cutelariaartesanal.com.br/downloads/Carpentry_Training_Manual.pdf
+https://www.sherriallen.com/gardenhandbook.pdfhttps://www.fao.org/3/i3556e/i3556e.pdf
+https://www.almanac.com/sites/default/files/webform/pdf/almanac-start-a-garden.pdf
+
+https://f-droid.org/en/packages/net.osmand.plus/
+https://mealie.io/
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+OSINT Techniques (10th): https://amzn.to/3VIlP74
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1541980267-user-98066669-300-self-hosted-2-offline-knowledge.mp3" length="28322585"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-HnXUyyxHvnVKuXXu-NJk4Kg-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1528902265</guid>
+      <title>299-Self-Hosted 1: Introduction</title>
+      <pubDate>Fri, 02 Jun 2023 14:31:22 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/299-self-hosted-part-i</link>
+      <itunes:duration>00:30:18</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week I begin the conversation about self-hosting everything, plus offer the latest privacy news.
+
+Direct support for this podcast comes from our privacy services, online training, and latest books. More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+Aurora Store
+RaidForums DB
+
+SELF-HOSTED PART I:
+
+Conversation
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+OSINT Techniques (10th): https://amzn.to/3VIlP74
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</itunes:summary>
+      <itunes:subtitle>This week I begin the conversation about self-hos…</itunes:subtitle>
+      <description>This week I begin the conversation about self-hosting everything, plus offer the latest privacy news.
+
+Direct support for this podcast comes from our privacy services, online training, and latest books. More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+Aurora Store
+RaidForums DB
+
+SELF-HOSTED PART I:
+
+Conversation
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+OSINT Techniques (10th): https://amzn.to/3VIlP74
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1528902265-user-98066669-299-self-hosted-part-i.mp3" length="29099989"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-HnXUyyxHvnVKuXXu-NJk4Kg-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1523234632</guid>
+      <title>298-OSINT Maintenance</title>
+      <pubDate>Fri, 26 May 2023 13:18:45 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/298-the-osint-maintenance-grind</link>
+      <itunes:duration>01:08:32</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week Jason joins me to talk about the nuances of keeping all your OSINT accounts, tools, and techniques maintained, plus we each share our most recent OSINT successes.
+
+Direct support for this podcast comes from our privacy services, online training, and latest books. More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+BlackHat
+Purism Phone Refund
+
+OSINT MAINTENANCE:
+
+Accounts – Investigative and “Burner” Accounts
+Communications
+Equipment
+Professional &amp; Training
+Operational Security
+Google Legacy Reverse Image
+https://inteltechniques.com/tools/Videos.html
+https://inteltechniques.com/tools/Images.html
+Buckets-GrayHatWarfare
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+OSINT Techniques (10th): https://amzn.to/3VIlP74
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</itunes:summary>
+      <itunes:subtitle>This week Jason joins me to talk about the nuance…</itunes:subtitle>
+      <description>This week Jason joins me to talk about the nuances of keeping all your OSINT accounts, tools, and techniques maintained, plus we each share our most recent OSINT successes.
+
+Direct support for this podcast comes from our privacy services, online training, and latest books. More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+BlackHat
+Purism Phone Refund
+
+OSINT MAINTENANCE:
+
+Accounts – Investigative and “Burner” Accounts
+Communications
+Equipment
+Professional &amp; Training
+Operational Security
+Google Legacy Reverse Image
+https://inteltechniques.com/tools/Videos.html
+https://inteltechniques.com/tools/Images.html
+Buckets-GrayHatWarfare
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+OSINT Techniques (10th): https://amzn.to/3VIlP74
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1523234632-user-98066669-298-the-osint-maintenance-grind.mp3" length="65796387"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-HnXUyyxHvnVKuXXu-NJk4Kg-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1517763310</guid>
+      <title>297-KYC, 2FA, macOS, &amp; OSINT Updates</title>
+      <pubDate>Fri, 19 May 2023 14:52:55 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/297-kyc-2fa-macos-osint-updates</link>
+      <itunes:duration>00:31:38</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week I offer many updates including new Know Your Customer concerns, better 2FA options, my latest macOS Devices digital guide, OSINT tool changes, and how to get your own free TV which of course monitors everything you do.
+
+Direct support for this podcast comes from our privacy services, online training, and latest books. More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+KYC Changes
+Standard Notes 2FA Updates
+https://inteltechniques.com/book7b.html
+https://inteltechniques.com/tools/Videos.html
+TV Spy
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+OSINT Techniques (10th): https://amzn.to/3VIlP74
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</itunes:summary>
+      <itunes:subtitle>This week I offer many updates including new Know…</itunes:subtitle>
+      <description>This week I offer many updates including new Know Your Customer concerns, better 2FA options, my latest macOS Devices digital guide, OSINT tool changes, and how to get your own free TV which of course monitors everything you do.
+
+Direct support for this podcast comes from our privacy services, online training, and latest books. More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+KYC Changes
+Standard Notes 2FA Updates
+https://inteltechniques.com/book7b.html
+https://inteltechniques.com/tools/Videos.html
+TV Spy
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+OSINT Techniques (10th): https://amzn.to/3VIlP74
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1517763310-user-98066669-297-kyc-2fa-macos-osint-updates.mp3" length="30375600"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-HnXUyyxHvnVKuXXu-NJk4Kg-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1512737377</guid>
+      <title>296-The Argument for a Stock Browser</title>
+      <pubDate>Fri, 12 May 2023 14:20:29 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/296-the-argument-for-a-stock-browser</link>
+      <itunes:duration>00:27:41</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week I present an argument supporting the use of an untouched stock browser with no privacy and security hardening. Sharpen your pitchforks.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2023  Open Source Intelligence Techniques (10th Edition), and Extreme Privacy: Mobile Devices, Digital Edition. More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+Phone Number Exposure
+
+NEWS &amp; UPDATES:
+
+https://vehicleprivacyreport.com/
+https://www.virustotal.com
+Proton Calendar Shared E2EE
+Apple PR contact
+
+STOCK BROWSERS:
+
+Discussion
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+OSINT Techniques (10th): https://amzn.to/3VIlP74
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</itunes:summary>
+      <itunes:subtitle>This week I present an argument supporting the us…</itunes:subtitle>
+      <description>This week I present an argument supporting the use of an untouched stock browser with no privacy and security hardening. Sharpen your pitchforks.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2023  Open Source Intelligence Techniques (10th Edition), and Extreme Privacy: Mobile Devices, Digital Edition. More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+Phone Number Exposure
+
+NEWS &amp; UPDATES:
+
+https://vehicleprivacyreport.com/
+https://www.virustotal.com
+Proton Calendar Shared E2EE
+Apple PR contact
+
+STOCK BROWSERS:
+
+Discussion
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+OSINT Techniques (10th): https://amzn.to/3VIlP74
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1512737377-user-98066669-296-the-argument-for-a-stock-browser.mp3" length="26583457"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-HnXUyyxHvnVKuXXu-NJk4Kg-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1502182657</guid>
+      <title>295-Breach Data Collection Revisited</title>
+      <pubDate>Fri, 28 Apr 2023 13:56:35 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/295-breach-data-collection-revisited</link>
+      <itunes:duration>01:03:21</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week I provide a detailed behind-the-scenes view into our weekly digestion of breach data, offer a new faster query option, and weigh in on the latest privacy updates.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2023  Open Source Intelligence Techniques (10th Edition), and Extreme Privacy: Mobile Devices, Digital Edition. More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+Fastmail catchall sending
+Proton Pass
+Twitter Tools
+
+BREACH DATA COLLECTION REVISITED:
+
+Why we collect breach data
+How we organize data
+Ripgrep vs. DB vs. QGrep
+Stealer Logs
+Combo Lists
+Breaches
+Leaks
+Ransomware
+Summary
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+OSINT Techniques (10th): https://amzn.to/3VIlP74
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</itunes:summary>
+      <itunes:subtitle>This week I provide a detailed behind-the-scenes …</itunes:subtitle>
+      <description>This week I provide a detailed behind-the-scenes view into our weekly digestion of breach data, offer a new faster query option, and weigh in on the latest privacy updates.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2023  Open Source Intelligence Techniques (10th Edition), and Extreme Privacy: Mobile Devices, Digital Edition. More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+Fastmail catchall sending
+Proton Pass
+Twitter Tools
+
+BREACH DATA COLLECTION REVISITED:
+
+Why we collect breach data
+How we organize data
+Ripgrep vs. DB vs. QGrep
+Stealer Logs
+Combo Lists
+Breaches
+Leaks
+Ransomware
+Summary
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+OSINT Techniques (10th): https://amzn.to/3VIlP74
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1502182657-user-98066669-295-breach-data-collection-revisited.mp3" length="60830614"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-HnXUyyxHvnVKuXXu-NJk4Kg-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1497625624</guid>
+      <title>294-Preparing for Home Disaster</title>
+      <pubDate>Fri, 21 Apr 2023 14:19:00 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/294-preparing-for-home-disaster</link>
+      <itunes:duration>00:36:38</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week I discuss preparation for home disaster along with the latest Privacy, Security, and OSINT news.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2023  Open Source Intelligence Techniques (10th Edition), and Extreme Privacy: Mobile Devices, Digital Edition. More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+https://inteltechniques.com/tools/Breaches.html
+https://inteltechniques.com/exposure.html
+VM Update
+Facebook Settlement
+
+PREPARING FOR HOME DISASTER:
+
+Discussion
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+OSINT Techniques (10th): https://amzn.to/3VIlP74
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</itunes:summary>
+      <itunes:subtitle>This week I discuss preparation for home disaster…</itunes:subtitle>
+      <description>This week I discuss preparation for home disaster along with the latest Privacy, Security, and OSINT news.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2023  Open Source Intelligence Techniques (10th Edition), and Extreme Privacy: Mobile Devices, Digital Edition. More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+https://inteltechniques.com/tools/Breaches.html
+https://inteltechniques.com/exposure.html
+VM Update
+Facebook Settlement
+
+PREPARING FOR HOME DISASTER:
+
+Discussion
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+OSINT Techniques (10th): https://amzn.to/3VIlP74
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1497625624-user-98066669-294-preparing-for-home-disaster.mp3" length="35172100"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-HnXUyyxHvnVKuXXu-NJk4Kg-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1492355113</guid>
+      <title>293-Financial Software Considerations</title>
+      <pubDate>Fri, 14 Apr 2023 13:54:39 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/293-financial-software-considerations</link>
+      <itunes:duration>00:33:04</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week I discuss some privacy considerations while using financial software applications.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2023  Open Source Intelligence Techniques (10th Edition), and Extreme Privacy: Mobile Devices, Digital Edition. More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+https://inteltechniques.com/book7a.html
+https://inteltechniques.com/books.html
+
+FINANCIAL SOFTWARE CONSIDERATIONS:
+
+https://www.gnucash.org/
+https://scimonocesoftware.com/products/see-finance/
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+OSINT Techniques (10th): https://amzn.to/3VIlP74
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</itunes:summary>
+      <itunes:subtitle>This week I discuss some privacy considerations w…</itunes:subtitle>
+      <description>This week I discuss some privacy considerations while using financial software applications.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2023  Open Source Intelligence Techniques (10th Edition), and Extreme Privacy: Mobile Devices, Digital Edition. More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+https://inteltechniques.com/book7a.html
+https://inteltechniques.com/books.html
+
+FINANCIAL SOFTWARE CONSIDERATIONS:
+
+https://www.gnucash.org/
+https://scimonocesoftware.com/products/see-finance/
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+OSINT Techniques (10th): https://amzn.to/3VIlP74
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1492355113-user-98066669-293-financial-software-considerations.mp3" length="31757791"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-HnXUyyxHvnVKuXXu-NJk4Kg-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1476581479</guid>
+      <title>292-Vital News &amp; Updates</title>
+      <pubDate>Fri, 24 Mar 2023 14:17:59 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/292-vital-news-updates</link>
+      <itunes:duration>00:31:20</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week I provide several important updates including Android vulnerabilities, Mint Mobile acquisition, BreachForums disappearance, and many new OSINT tools. This is a full show.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2023  Open Source Intelligence Techniques (10th Edition), and Extreme Privacy: Mobile Devices, Digital Edition. More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+https://inteltechniques.com/training.html
+https://www.blackhat.com/us-23/training/schedule/index.html#inteltechniques--day-osint-training-30607
+https://googleprojectzero.blogspot.com/2023/03/multiple-internet-to-baseband-remote-rce.html
+Markup app cropping
+Mint &gt; T Mobile
+BeachForums Admin arrested
+
+OSINT UPDATES:
+
+https://huggingface.co/spaces/Grynn/Youtube-Whisperer
+https://inteltechniques.com/tools/Breaches.html
+https://inteltechniques.com/tools/Vehicle.html
+https://inteltechniques.com/tools/Name.html
+https://inteltechniques.com/tools/Email.html
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+OSINT Techniques (10th): https://amzn.to/3VIlP74
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</itunes:summary>
+      <itunes:subtitle>This week I provide several important updates inc…</itunes:subtitle>
+      <description>This week I provide several important updates including Android vulnerabilities, Mint Mobile acquisition, BreachForums disappearance, and many new OSINT tools. This is a full show.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2023  Open Source Intelligence Techniques (10th Edition), and Extreme Privacy: Mobile Devices, Digital Edition. More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+https://inteltechniques.com/training.html
+https://www.blackhat.com/us-23/training/schedule/index.html#inteltechniques--day-osint-training-30607
+https://googleprojectzero.blogspot.com/2023/03/multiple-internet-to-baseband-remote-rce.html
+Markup app cropping
+Mint &gt; T Mobile
+BeachForums Admin arrested
+
+OSINT UPDATES:
+
+https://huggingface.co/spaces/Grynn/Youtube-Whisperer
+https://inteltechniques.com/tools/Breaches.html
+https://inteltechniques.com/tools/Vehicle.html
+https://inteltechniques.com/tools/Name.html
+https://inteltechniques.com/tools/Email.html
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+OSINT Techniques (10th): https://amzn.to/3VIlP74
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1476581479-user-98066669-292-vital-news-updates.mp3" length="30082193"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-HnXUyyxHvnVKuXXu-NJk4Kg-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1458303439</guid>
+      <title>291-Mobile App Security &amp; Audio Transcription</title>
+      <pubDate>Tue, 28 Feb 2023 21:59:22 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/291-mobile-app-security-audio-transcription</link>
+      <itunes:duration>00:49:04</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week I discuss ways your secure mobile device may become not-so-secure (with solutions) and present a great offline translation and transcription option for OSINT investigations.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2023  Open Source Intelligence Techniques (10th Edition), and Extreme Privacy: Mobile Devices, Digital Edition. More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+https://inteltechniques.com/book7a.html
+
+MOBILE APP SECURITY:
+
+Conversation
+
+OSINT:
+
+https://github.com/openai/whisper
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+OSINT Techniques (10th): https://amzn.to/3VIlP74
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</itunes:summary>
+      <itunes:subtitle>This week I discuss ways your secure mobile devic…</itunes:subtitle>
+      <description>This week I discuss ways your secure mobile device may become not-so-secure (with solutions) and present a great offline translation and transcription option for OSINT investigations.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2023  Open Source Intelligence Techniques (10th Edition), and Extreme Privacy: Mobile Devices, Digital Edition. More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+https://inteltechniques.com/book7a.html
+
+MOBILE APP SECURITY:
+
+Conversation
+
+OSINT:
+
+https://github.com/openai/whisper
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+OSINT Techniques (10th): https://amzn.to/3VIlP74
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1458303439-user-98066669-291-mobile-app-security-audio-transcription.mp3" length="47116119"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-HnXUyyxHvnVKuXXu-NJk4Kg-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1451563117</guid>
+      <title>290-Extreme Privacy: Mobile Devices</title>
+      <pubDate>Mon, 20 Feb 2023 21:17:55 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/290-extreme-privacy-mobile-devices</link>
+      <itunes:duration>01:12:34</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>In this episode I release our first digital guide as part of our new Extreme Privacy series, devote the bulk of the show to mobile device privacy and security, and offer some OSINT updates.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2023  Open Source Intelligence Techniques (10th Edition), and Extreme Privacy: Mobile Devices, Digital Edition. More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+Private &amp; Secure Devices
+
+OSINT:
+
+https://cdimage.ubuntu.com/jammy/daily-live/20221020/jammy-desktop-arm64.iso
+https://github.com/soxoj/maigret
+https://webscout.io/lookup/cnn.com
+
+EXTREME PRIVACY: MOBILE DEVICES
+
+https://inteltechniques.com/book7a.html
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+OSINT Techniques (10th): https://amzn.to/3VIlP74
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</itunes:summary>
+      <itunes:subtitle>In this episode I release our first digital guide…</itunes:subtitle>
+      <description>In this episode I release our first digital guide as part of our new Extreme Privacy series, devote the bulk of the show to mobile device privacy and security, and offer some OSINT updates.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2023  Open Source Intelligence Techniques (10th Edition), and Extreme Privacy: Mobile Devices, Digital Edition. More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+Private &amp; Secure Devices
+
+OSINT:
+
+https://cdimage.ubuntu.com/jammy/daily-live/20221020/jammy-desktop-arm64.iso
+https://github.com/soxoj/maigret
+https://webscout.io/lookup/cnn.com
+
+EXTREME PRIVACY: MOBILE DEVICES
+
+https://inteltechniques.com/book7a.html
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+OSINT Techniques (10th): https://amzn.to/3VIlP74
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1451563117-user-98066669-290-extreme-privacy-mobile-devices.mp3" length="69664599"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-HnXUyyxHvnVKuXXu-NJk4Kg-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1444118782</guid>
+      <title>289-Combo Lists &amp; Extreme Privacy Series</title>
+      <pubDate>Fri, 10 Feb 2023 15:42:53 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/289-combo-lists-extreme-privacy-series</link>
+      <itunes:duration>00:22:14</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>In this episode I discuss the risks (and benefits) of combo lists and introduce our new Extreme Privacy Series.
+
+Direct support for this podcast comes from our privacy services, online training, and new book for 2023  Open Source Intelligence Techniques (10th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+Introducing Extreme Privacy: The Series
+
+OSINT:
+
+Eyewitness path update
+Tools.zip html &amp; api update
+
+COMBO LISTS:
+
+Discussion
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+OSINT Techniques (10th): https://amzn.to/3VIlP74
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</itunes:summary>
+      <itunes:subtitle>In this episode I discuss the risks (and benefits…</itunes:subtitle>
+      <description>In this episode I discuss the risks (and benefits) of combo lists and introduce our new Extreme Privacy Series.
+
+Direct support for this podcast comes from our privacy services, online training, and new book for 2023  Open Source Intelligence Techniques (10th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+Introducing Extreme Privacy: The Series
+
+OSINT:
+
+Eyewitness path update
+Tools.zip html &amp; api update
+
+COMBO LISTS:
+
+Discussion
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+OSINT Techniques (10th): https://amzn.to/3VIlP74
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1444118782-user-98066669-289-combo-lists-extreme-privacy-series.mp3" length="21355623"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xOUAxSkCZoGEI9gb-ArXzVQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1433819584</guid>
+      <title>288-Privacy, Security, &amp; OSINT Updates</title>
+      <pubDate>Fri, 27 Jan 2023 15:27:26 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/288-privacy-security-osint-updates</link>
+      <itunes:duration>00:28:40</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>In this episode, I discuss the latest Privacy &amp; Security news, and present several new OSINT Techniques.
+
+Direct support for this podcast comes from our privacy services, online training, and new book for 2023  Open Source Intelligence Techniques (10th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+Mint Mobile &gt; T-Mobile
+T-Mobile &quot;Breach&quot;
+URL Manipulation
+
+OSINT:
+
+https://www.judyrecords.com/
+https://filmot.com/
+https://columbus.elmasy.com/lookup/judgenothing.com
+http://web.archive.org/web/*/judgenothing.com/*
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+OSINT Techniques (10th): https://amzn.to/3VIlP74
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</itunes:summary>
+      <itunes:subtitle>In this episode, I discuss the latest Privacy &amp; S…</itunes:subtitle>
+      <description>In this episode, I discuss the latest Privacy &amp; Security news, and present several new OSINT Techniques.
+
+Direct support for this podcast comes from our privacy services, online training, and new book for 2023  Open Source Intelligence Techniques (10th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+Mint Mobile &gt; T-Mobile
+T-Mobile &quot;Breach&quot;
+URL Manipulation
+
+OSINT:
+
+https://www.judyrecords.com/
+https://filmot.com/
+https://columbus.elmasy.com/lookup/judgenothing.com
+http://web.archive.org/web/*/judgenothing.com/*
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+OSINT Techniques (10th): https://amzn.to/3VIlP74
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1433819584-user-98066669-288-privacy-security-osint-updates.mp3" length="27536403"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xOUAxSkCZoGEI9gb-ArXzVQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1418007349</guid>
+      <title>287-Listener Questions, UNREDACTED 5, &amp; OSINT 10</title>
+      <pubDate>Fri, 06 Jan 2023 15:08:59 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/287-listener-questions-unredacted-5-osint-10</link>
+      <itunes:duration>01:41:43</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week I present the latest issue of UNREDACTED Magazine, publish my new OSINT book, and tackle numerous listener questions.
+
+Direct support for this podcast comes from our privacy services, online training, and new book for 2023  Open Source Intelligence Techniques (10th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+No Agenda Podcast
+
+UNREDACTED 005:
+
+https://inteltechniques.com/magazine.html
+
+OSINT 10:
+
+https://inteltechniques.com/book1.html
+https://inteltechniques.com/tools
+
+LISTENER QUESTIONS:
+
+Conversation with Naomi Brockwell from nbtv.media
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+OSINT Techniques (10th): https://amzn.to/3VIlP74
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</itunes:summary>
+      <itunes:subtitle>This week I present the latest issue of UNREDACTE…</itunes:subtitle>
+      <description>This week I present the latest issue of UNREDACTED Magazine, publish my new OSINT book, and tackle numerous listener questions.
+
+Direct support for this podcast comes from our privacy services, online training, and new book for 2023  Open Source Intelligence Techniques (10th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+No Agenda Podcast
+
+UNREDACTED 005:
+
+https://inteltechniques.com/magazine.html
+
+OSINT 10:
+
+https://inteltechniques.com/book1.html
+https://inteltechniques.com/tools
+
+LISTENER QUESTIONS:
+
+Conversation with Naomi Brockwell from nbtv.media
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+OSINT Techniques (10th): https://amzn.to/3VIlP74
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1418007349-user-98066669-287-listener-questions-unredacted-5-osint-10.mp3" length="97650728"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xOUAxSkCZoGEI9gb-ArXzVQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1404064933</guid>
+      <title>286-Closing Out 2022</title>
+      <pubDate>Fri, 16 Dec 2022 14:48:21 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/286-closing-out-2022</link>
+      <itunes:duration>00:29:12</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week I offer some year-end privacy and security considerations, disclose another benefit of breach data, and announce the annual listener questions show.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+Jeopardy!
+
+NEWS &amp; UPDATES:
+
+Listener Questions
+OSINT Techniques Book
+UNREDACTED Magazine
+https://inteltechniques.com/blog/2022/12/12/uncovering-a-stalker-with-breach-data/
+
+CLOSING OUT 2022:
+
+Clean Devices
+Update Devices
+Scan Devices
+Backups
+Comms Audit
+Home security audit
+Financial Audit
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</itunes:summary>
+      <itunes:subtitle>This week I offer some year-end privacy and secur…</itunes:subtitle>
+      <description>This week I offer some year-end privacy and security considerations, disclose another benefit of breach data, and announce the annual listener questions show.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+Jeopardy!
+
+NEWS &amp; UPDATES:
+
+Listener Questions
+OSINT Techniques Book
+UNREDACTED Magazine
+https://inteltechniques.com/blog/2022/12/12/uncovering-a-stalker-with-breach-data/
+
+CLOSING OUT 2022:
+
+Clean Devices
+Update Devices
+Scan Devices
+Backups
+Comms Audit
+Home security audit
+Financial Audit
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1404064933-user-98066669-286-closing-out-2022.mp3" length="28038790"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xOUAxSkCZoGEI9gb-ArXzVQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1394832580</guid>
+      <title>285-Travel Security Revisited</title>
+      <pubDate>Fri, 02 Dec 2022 15:25:28 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/285-travel-security-revisited</link>
+      <itunes:duration>01:02:19</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week Jason joins me to revisit travel security protocols. If you have travel planned this holiday season, consider our privacy and security tips.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+https://www.inteltechniques.net/
+OSINT Book
+UNREDACTED 005
+Google Lens
+
+TRAVEL SECURITY REVISITED:
+
+Backpack Considerations
+Building Good Habits
+Carry-on vs. Checked
+Wallets (Output)
+https://slnt.com/discount/IntelTechniques
+Interior Pockets
+Ground Travel at Destination
+Hotel
+Dress
+Situational Awareness
+Cash
+Offline Maps
+Language
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</itunes:summary>
+      <itunes:subtitle>This week Jason joins me to revisit travel securi…</itunes:subtitle>
+      <description>This week Jason joins me to revisit travel security protocols. If you have travel planned this holiday season, consider our privacy and security tips.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+https://www.inteltechniques.net/
+OSINT Book
+UNREDACTED 005
+Google Lens
+
+TRAVEL SECURITY REVISITED:
+
+Backpack Considerations
+Building Good Habits
+Carry-on vs. Checked
+Wallets (Output)
+https://slnt.com/discount/IntelTechniques
+Interior Pockets
+Ground Travel at Destination
+Hotel
+Dress
+Situational Awareness
+Cash
+Offline Maps
+Language
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1394832580-user-98066669-285-travel-security-revisited.mp3" length="59833363"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xOUAxSkCZoGEI9gb-ArXzVQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1385780716</guid>
+      <title>284-Password Managers &amp; 2FA Revisited</title>
+      <pubDate>Fri, 18 Nov 2022 15:05:41 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/284-password-managers-2fa-revisited</link>
+      <itunes:duration>00:38:10</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week I revisit the importance of password managers and 2FA, and offer new Bitwarden strategies for daily usage.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+Password Managers
+
+UPDATES:
+
+None
+
+PASSWORD MANAGERS &amp; 2FA REVISITED:
+
+This week
+https://bitwarden.com/
+Differences
+Comparisons
+Usage
+Benefits
+Trust
+2FA
+Import
+Export
+Browses
+Sharing
+Offline Access
+Emergency Access
+Summary
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</itunes:summary>
+      <itunes:subtitle>This week I revisit the importance of password ma…</itunes:subtitle>
+      <description>This week I revisit the importance of password managers and 2FA, and offer new Bitwarden strategies for daily usage.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+Password Managers
+
+UPDATES:
+
+None
+
+PASSWORD MANAGERS &amp; 2FA REVISITED:
+
+This week
+https://bitwarden.com/
+Differences
+Comparisons
+Usage
+Benefits
+Trust
+2FA
+Import
+Export
+Browses
+Sharing
+Offline Access
+Emergency Access
+Summary
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1385780716-user-98066669-284-password-managers-2fa-revisited.mp3" length="36642898"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xOUAxSkCZoGEI9gb-ArXzVQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1376436175</guid>
+      <title>283-Announcements, Updates, &amp; News</title>
+      <pubDate>Fri, 04 Nov 2022 14:26:37 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/283-announcements-updates-news</link>
+      <itunes:duration>00:28:31</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week I offer numerous announcements, updates, and news items related to privacy, security, &amp; OSINT.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+ANNOUNCEMENTS:
+
+https://inteltechniques.com/book1.html
+Sporadic Shows
+https://unredactedmagazine.com/
+
+UPDATES:
+
+Proton Mail Hardware 2FA Correction
+https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+https://inteltechniques.com/tools/API.html
+MySudo crash
+IronVest
+Spiderfoot
+
+NEWS:
+
+Medical Breach
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</itunes:summary>
+      <itunes:subtitle>This week I offer numerous announcements, updates…</itunes:subtitle>
+      <description>This week I offer numerous announcements, updates, and news items related to privacy, security, &amp; OSINT.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+ANNOUNCEMENTS:
+
+https://inteltechniques.com/book1.html
+Sporadic Shows
+https://unredactedmagazine.com/
+
+UPDATES:
+
+Proton Mail Hardware 2FA Correction
+https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+https://inteltechniques.com/tools/API.html
+MySudo crash
+IronVest
+Spiderfoot
+
+NEWS:
+
+Medical Breach
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1376436175-user-98066669-283-announcements-updates-news.mp3" length="27377997"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xOUAxSkCZoGEI9gb-ArXzVQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1367566324</guid>
+      <title>282-Major OSINT Updates</title>
+      <pubDate>Fri, 21 Oct 2022 14:36:18 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/282-major-osint-updates</link>
+      <itunes:duration>00:28:30</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week I offer numerous new OSINT strategies and their corresponding IntelTechniques tool usage, plus the latest news and updates.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+Jeopardy!
+
+NEWS &amp; UPDATES:
+
+Proton Yubikey
+Standard Notes Bug (fixed)
+Stealer Logs Lesson
+Workbook Theft
+
+MAJOR OSINT UPDATES:
+
+Tor.link
+Tweet Beaver
+ID Crawl
+Acrevalue
+FaceCheck
+News Radio
+Remote Radio
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</itunes:summary>
+      <itunes:subtitle>This week I offer numerous new OSINT strategies a…</itunes:subtitle>
+      <description>This week I offer numerous new OSINT strategies and their corresponding IntelTechniques tool usage, plus the latest news and updates.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+Jeopardy!
+
+NEWS &amp; UPDATES:
+
+Proton Yubikey
+Standard Notes Bug (fixed)
+Stealer Logs Lesson
+Workbook Theft
+
+MAJOR OSINT UPDATES:
+
+Tor.link
+Tweet Beaver
+ID Crawl
+Acrevalue
+FaceCheck
+News Radio
+Remote Radio
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1367566324-user-98066669-282-major-osint-updates.mp3" length="27370892"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xOUAxSkCZoGEI9gb-ArXzVQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1358719066</guid>
+      <title>281-The Obsession Of Extreme Privacy</title>
+      <pubDate>Fri, 07 Oct 2022 14:51:16 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/281-the-obsession-of-extreme-privacy</link>
+      <itunes:duration>00:35:05</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week I revisit some impacts of extreme privacy and security on our mental health when we become obsessed with the little things, and offer ways I keep my own balance in check. I also explain how Stealer Logs solved a recent case of revenge porn.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+Tim Conway Jr.
+
+NEWS &amp; UPDATES:
+
+Episode 280
+Stealer Log Success
+
+THE OBSESSION OF EXTREME PRIVACY:
+
+https://unredactedmagazine.com/issues/004.pdf
+https://inteltechniques.com/blog/2022/04/01/the-privacy-security-osint-show-episode-256/
+Conversation
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</itunes:summary>
+      <itunes:subtitle>This week I revisit some impacts of extreme priva…</itunes:subtitle>
+      <description>This week I revisit some impacts of extreme privacy and security on our mental health when we become obsessed with the little things, and offer ways I keep my own balance in check. I also explain how Stealer Logs solved a recent case of revenge porn.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+Tim Conway Jr.
+
+NEWS &amp; UPDATES:
+
+Episode 280
+Stealer Log Success
+
+THE OBSESSION OF EXTREME PRIVACY:
+
+https://unredactedmagazine.com/issues/004.pdf
+https://inteltechniques.com/blog/2022/04/01/the-privacy-security-osint-show-episode-256/
+Conversation
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1358719066-user-98066669-281-the-obsession-of-extreme-privacy.mp3" length="33681239"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xOUAxSkCZoGEI9gb-ArXzVQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1354362292</guid>
+      <title>280-The Future Of Extreme Privacy</title>
+      <pubDate>Fri, 30 Sep 2022 16:14:46 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/280-the-future-of-extreme-privacy</link>
+      <itunes:duration>00:32:45</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week I offer a glimpse into the major projects we are working on for the next level of Extreme Privacy.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+Redaction Disclosure
+
+NEWS &amp; UPDATES:
+
+ES Database
+https://unredactedmagazine.com/
+https://inteltechniques.com/training.html
+
+THE FUTURE OF EXTREME PRIVACY:
+
+Email
+VOIP
+PMBs
+Prepaid Gift Cards (Redacted)
+Proxy Payments (Redacted)
+Anonymous BTC (Redacted)
+Invisible LLCs in 2023 (Redacted)
+Rental Housing
+Sole Prop EIN Credit
+Future Disappearance Kit
+Death Kit
+Name Changes
+Second Passport
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</itunes:summary>
+      <itunes:subtitle>This week I offer a glimpse into the major projec…</itunes:subtitle>
+      <description>This week I offer a glimpse into the major projects we are working on for the next level of Extreme Privacy.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+Redaction Disclosure
+
+NEWS &amp; UPDATES:
+
+ES Database
+https://unredactedmagazine.com/
+https://inteltechniques.com/training.html
+
+THE FUTURE OF EXTREME PRIVACY:
+
+Email
+VOIP
+PMBs
+Prepaid Gift Cards (Redacted)
+Proxy Payments (Redacted)
+Anonymous BTC (Redacted)
+Invisible LLCs in 2023 (Redacted)
+Rental Housing
+Sole Prop EIN Credit
+Future Disappearance Kit
+Death Kit
+Name Changes
+Second Passport
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1354362292-user-98066669-280-the-future-of-extreme-privacy.mp3" length="31456025"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xOUAxSkCZoGEI9gb-ArXzVQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1349596906</guid>
+      <title>279-Comms Ownership &amp; Open Databases</title>
+      <pubDate>Fri, 23 Sep 2022 13:30:59 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/279-comms-ownership-open-databases</link>
+      <itunes:duration>00:40:33</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week I discuss true ownership of our communications including phone numbers, email addresses, domains, and monikers, and present two OSINT updates including a new open people search database available for download.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+MB
+
+NEWS &amp; UPDATES:
+
+https://unredactedmagazine.com/
+OSINT VM Update
+
+OPEN DATABASES:
+
+Discussion
+
+COMMS OWNERSHIP:
+
+Phone Numbers
+Email Addresses
+Domains
+Secure Comms
+Online Account 2FA
+Banks
+Overall Lesson
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</itunes:summary>
+      <itunes:subtitle>This week I discuss true ownership of our communi…</itunes:subtitle>
+      <description>This week I discuss true ownership of our communications including phone numbers, email addresses, domains, and monikers, and present two OSINT updates including a new open people search database available for download.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+MB
+
+NEWS &amp; UPDATES:
+
+https://unredactedmagazine.com/
+OSINT VM Update
+
+OPEN DATABASES:
+
+Discussion
+
+COMMS OWNERSHIP:
+
+Phone Numbers
+Email Addresses
+Domains
+Secure Comms
+Online Account 2FA
+Banks
+Overall Lesson
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1349596906-user-98066669-279-comms-ownership-open-databases.mp3" length="38930389"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xOUAxSkCZoGEI9gb-ArXzVQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1345089544</guid>
+      <title>278-Breach Assumptions Offer Comfort</title>
+      <pubDate>Fri, 16 Sep 2022 14:05:51 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/278-breach-assumptions-offer-comfort</link>
+      <itunes:duration>00:41:48</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week I explain how breach assumptions are vital for our online hygiene (while offering comfort when bad things happen), present a strategy for multiple Signal accounts, and provide several OSINT updates.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+New Girl
+
+NEWS &amp; UPDATES:
+
+OSINT Flowcharts
+https://inteltechniques.com/tools/Domain.html
+https://inteltechniques.com/tools/Email.html
+https://inteltechniques.com/tools/IP.html
+
+MULTIPLE SIGNAL ACCOUNTS:
+
+https://molly.im/
+https://support.signal.org/hc/en-us/articles/360007318471-Signal-Beta
+
+BREACH ASSUMPTIONS OFFER COMFORT:
+
+Online Accounts
+Online Orders
+Banking
+Medical Visits
+DL
+Vehicles
+Domains
+Email Addresses
+Email Content
+Summary
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</itunes:summary>
+      <itunes:subtitle>This week I explain how breach assumptions are vi…</itunes:subtitle>
+      <description>This week I explain how breach assumptions are vital for our online hygiene (while offering comfort when bad things happen), present a strategy for multiple Signal accounts, and provide several OSINT updates.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+New Girl
+
+NEWS &amp; UPDATES:
+
+OSINT Flowcharts
+https://inteltechniques.com/tools/Domain.html
+https://inteltechniques.com/tools/Email.html
+https://inteltechniques.com/tools/IP.html
+
+MULTIPLE SIGNAL ACCOUNTS:
+
+https://molly.im/
+https://support.signal.org/hc/en-us/articles/360007318471-Signal-Beta
+
+BREACH ASSUMPTIONS OFFER COMFORT:
+
+Online Accounts
+Online Orders
+Banking
+Medical Visits
+DL
+Vehicles
+Domains
+Email Addresses
+Email Content
+Summary
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1345089544-user-98066669-278-breach-assumptions-offer-comfort.mp3" length="40134947"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xOUAxSkCZoGEI9gb-ArXzVQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1336422079</guid>
+      <title>277-Burner Backfires &amp; VoIP Updates</title>
+      <pubDate>Fri, 02 Sep 2022 14:29:09 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/277-burner-backfires-voip-updates</link>
+      <itunes:duration>00:55:07</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week I explain how a recent client became exposed via temporary &quot;burner&quot; numbers and email, revisit VoIP solutions with a fresh look, offer a scripted way to directly access your Twilio calls, messages, and account details, and present an OSINT tip to passively collect content URLs within a site. Big show.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+Alfred Hitchcock Hour
+
+NEWS &amp; UPDATES:
+
+https://inteltechniques.com/tools/Domain.html
+
+BURNER BACKFIRES:
+
+https://inteltechniques.com/blog/2022/09/01/when-burners-backfire/
+
+VOIP UPDATES:
+
+https://inteltechniques.com/voip.twilio.cli.html
+https://inteltechniques.com/voip.suite.html
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</itunes:summary>
+      <itunes:subtitle>This week I explain how a recent client became ex…</itunes:subtitle>
+      <description>This week I explain how a recent client became exposed via temporary &quot;burner&quot; numbers and email, revisit VoIP solutions with a fresh look, offer a scripted way to directly access your Twilio calls, messages, and account details, and present an OSINT tip to passively collect content URLs within a site. Big show.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+Alfred Hitchcock Hour
+
+NEWS &amp; UPDATES:
+
+https://inteltechniques.com/tools/Domain.html
+
+BURNER BACKFIRES:
+
+https://inteltechniques.com/blog/2022/09/01/when-burners-backfire/
+
+VOIP UPDATES:
+
+https://inteltechniques.com/voip.twilio.cli.html
+https://inteltechniques.com/voip.suite.html
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+Proton Mail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+Proton VPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1336422079-user-98066669-277-burner-backfires-voip-updates.mp3" length="52913631"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xOUAxSkCZoGEI9gb-ArXzVQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1331821420</guid>
+      <title>276-When Google Attacks</title>
+      <pubDate>Fri, 26 Aug 2022 14:09:50 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/276-when-google-attacks</link>
+      <itunes:duration>00:16:41</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week I break down a recent report of Google terminating services of users who photographed their toddlers nude, the impact of their account loss, and solutions to prevent your own issues.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+The West Wing
+
+NEWS &amp; UPDATES:
+
+None
+
+WHEN GOOGLE ATTACKS:
+
+https://www.nytimes.com/2022/08/21/technology/google-surveillance-toddler-photo.html
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</itunes:summary>
+      <itunes:subtitle>This week I break down a recent report of Google …</itunes:subtitle>
+      <description>This week I break down a recent report of Google terminating services of users who photographed their toddlers nude, the impact of their account loss, and solutions to prevent your own issues.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+The West Wing
+
+NEWS &amp; UPDATES:
+
+None
+
+WHEN GOOGLE ATTACKS:
+
+https://www.nytimes.com/2022/08/21/technology/google-surveillance-toddler-photo.html
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1331821420-user-98066669-276-when-google-attacks.mp3" length="16020792"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xOUAxSkCZoGEI9gb-ArXzVQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1327127398</guid>
+      <title>275-Archived Site Removal &amp; Breaches Galore</title>
+      <pubDate>Fri, 19 Aug 2022 14:13:46 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/275-archived-site-removal-breaches-galore</link>
+      <itunes:duration>00:42:03</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week I offer my new Archive Site Removal Guide and explain its usage, plus the latest news on several breaches.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+https://unredactedmagazine.com/
+https://inteltechniques.com/services.html
+https://inteltechniques.com/training.html
+
+BREACHES:
+
+Twilio
+Signal
+Twitter
+Undisclosed Merch Store
+
+ARCHIVE SITE REMOVAL:
+
+https://inteltechniques.com/archive.html
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</itunes:summary>
+      <itunes:subtitle>This week I offer my new Archive Site Removal Gui…</itunes:subtitle>
+      <description>This week I offer my new Archive Site Removal Guide and explain its usage, plus the latest news on several breaches.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+https://unredactedmagazine.com/
+https://inteltechniques.com/services.html
+https://inteltechniques.com/training.html
+
+BREACHES:
+
+Twilio
+Signal
+Twitter
+Undisclosed Merch Store
+
+ARCHIVE SITE REMOVAL:
+
+https://inteltechniques.com/archive.html
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1327127398-user-98066669-275-archived-site-removal-breaches-galore.mp3" length="40379035"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xOUAxSkCZoGEI9gb-ArXzVQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1322919211</guid>
+      <title>274-Firewall Stability Modifications</title>
+      <pubDate>Fri, 12 Aug 2022 13:45:45 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/274-firewall-stability-modifications</link>
+      <itunes:duration>00:21:26</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week I explain some vital pfSense firewall modifications and offer a tip to prevent website chat apps from launching.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+uBlock Origin Filters
+
+FIREWALL STABILITY MODIFICATIONS:
+
+https://inteltechniques.com/firewall/
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+PIA Dedicated IP VPN: https://www.privateinternetaccess.com/ThePSOSHOW
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</itunes:summary>
+      <itunes:subtitle>This week I explain some vital pfSense firewall m…</itunes:subtitle>
+      <description>This week I explain some vital pfSense firewall modifications and offer a tip to prevent website chat apps from launching.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+uBlock Origin Filters
+
+FIREWALL STABILITY MODIFICATIONS:
+
+https://inteltechniques.com/firewall/
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+PIA Dedicated IP VPN: https://www.privateinternetaccess.com/ThePSOSHOW
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1322919211-user-98066669-274-firewall-stability-modifications.mp3" length="20579055"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xOUAxSkCZoGEI9gb-ArXzVQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1318538500</guid>
+      <title>273-Credential Exposure Removal</title>
+      <pubDate>Fri, 05 Aug 2022 14:07:36 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/273-credential-exposure-removal</link>
+      <itunes:duration>00:26:54</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week I offer our new Credential Exposure Removal Guide and tackle the latest news and updates.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+Tim Conway Jr. Show
+
+NEWS &amp; UPDATES:
+
+Apple IME
+Offline Tools
+Ring Doorbells
+
+CREDENTIAL EXPOSURE REMOVAL:
+
+https://inteltechniques.com/exposure.html
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+PIA Dedicated IP VPN: https://www.privateinternetaccess.com/ThePSOSHOW
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</itunes:summary>
+      <itunes:subtitle>This week I offer our new Credential Exposure Rem…</itunes:subtitle>
+      <description>This week I offer our new Credential Exposure Removal Guide and tackle the latest news and updates.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+Tim Conway Jr. Show
+
+NEWS &amp; UPDATES:
+
+Apple IME
+Offline Tools
+Ring Doorbells
+
+CREDENTIAL EXPOSURE REMOVAL:
+
+https://inteltechniques.com/exposure.html
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+PIA Dedicated IP VPN: https://www.privateinternetaccess.com/ThePSOSHOW
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1318538500-user-98066669-273-credential-exposure-removal.mp3" length="25837817"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xOUAxSkCZoGEI9gb-ArXzVQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1314157684</guid>
+      <title>272-Processor Attacks Explained</title>
+      <pubDate>Fri, 29 Jul 2022 14:42:06 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/272-processor-attacks-explained</link>
+      <itunes:duration>00:55:30</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week Paul Asadoorian joins me to explain vulnerabilities within our computer processors with potential solutions.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+https://inteltechniques.com/tools/
+https://inteltechniques.com/workbook.html
+https://unredactedmagazine.com/
+
+PROCESSOR ATTACKS EXPLAINED:
+
+Paul Asadoorian
+https://twitter.com/securityweekly
+https://eclypsium.com/2022/07/26/firmware-security-realizations-part-1-secure-boot-and-dbx/
+https://github.com/mjg59/mei-amt-check
+https://github.com/chipsec/chipsec.git
+https://github.com/intel/INTEL-SA-00075-Linux-Detection-And-Mitigation-Tools
+https://github.com/ptresearch/mmdetect
+https://github.com/corna/me_cleaner/
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+PIA Dedicated IP VPN: https://www.privateinternetaccess.com/ThePSOSHOW
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</itunes:summary>
+      <itunes:subtitle>This week Paul Asadoorian joins me to explain vul…</itunes:subtitle>
+      <description>This week Paul Asadoorian joins me to explain vulnerabilities within our computer processors with potential solutions.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+https://inteltechniques.com/tools/
+https://inteltechniques.com/workbook.html
+https://unredactedmagazine.com/
+
+PROCESSOR ATTACKS EXPLAINED:
+
+Paul Asadoorian
+https://twitter.com/securityweekly
+https://eclypsium.com/2022/07/26/firmware-security-realizations-part-1-secure-boot-and-dbx/
+https://github.com/mjg59/mei-amt-check
+https://github.com/chipsec/chipsec.git
+https://github.com/intel/INTEL-SA-00075-Linux-Detection-And-Mitigation-Tools
+https://github.com/ptresearch/mmdetect
+https://github.com/corna/me_cleaner/
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+PIA Dedicated IP VPN: https://www.privateinternetaccess.com/ThePSOSHOW
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1314157684-user-98066669-272-processor-attacks-explained.mp3" length="53288959"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xOUAxSkCZoGEI9gb-ArXzVQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1309900492</guid>
+      <title>271-OSINT Tool Updates II</title>
+      <pubDate>Fri, 22 Jul 2022 13:44:44 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/271-osint-tool-updates-ii</link>
+      <itunes:duration>00:31:45</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week I provide another substantial list of updates to the new OSINT tools, explain all usage, and offer numerous housekeeping changes. Yes, it is another OSINT episode.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+OSINT VM Updates
+OSINT Offline Tools
+OSINT Training Calendar
+Online Training Price Increase
+
+OSINT TOOL UPDATES:
+
+https://inteltechniques.com/tools/
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+PIA Dedicated IP VPN: https://www.privateinternetaccess.com/ThePSOSHOW
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</itunes:summary>
+      <itunes:subtitle>This week I provide another substantial list of u…</itunes:subtitle>
+      <description>This week I provide another substantial list of updates to the new OSINT tools, explain all usage, and offer numerous housekeeping changes. Yes, it is another OSINT episode.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+OSINT VM Updates
+OSINT Offline Tools
+OSINT Training Calendar
+Online Training Price Increase
+
+OSINT TOOL UPDATES:
+
+https://inteltechniques.com/tools/
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+PIA Dedicated IP VPN: https://www.privateinternetaccess.com/ThePSOSHOW
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1309900492-user-98066669-271-osint-tool-updates-ii.mp3" length="30495554"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xOUAxSkCZoGEI9gb-ArXzVQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1305789466</guid>
+      <title>270-OSINT Tool Updates I</title>
+      <pubDate>Fri, 15 Jul 2022 14:20:09 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/270-osint-tool-updates</link>
+      <itunes:duration>00:27:25</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week I explain numerous updates to the online OSINT search tools and offer some general usage tips.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+None
+
+OSINT TOOL UPDATES:
+
+https://inteltechniques.com/tools/
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+PIA Dedicated IP VPN: https://www.privateinternetaccess.com/ThePSOSHOW
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</itunes:summary>
+      <itunes:subtitle>This week I explain numerous updates to the onlin…</itunes:subtitle>
+      <description>This week I explain numerous updates to the online OSINT search tools and offer some general usage tips.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+None
+
+OSINT TOOL UPDATES:
+
+https://inteltechniques.com/tools/
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+PIA Dedicated IP VPN: https://www.privateinternetaccess.com/ThePSOSHOW
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1305789466-user-98066669-270-osint-tool-updates.mp3" length="26334771"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xOUAxSkCZoGEI9gb-ArXzVQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1301880907</guid>
+      <title>269-New OSINT Tools &amp; Breach Data Lessons</title>
+      <pubDate>Fri, 08 Jul 2022 14:16:05 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/269-new-osint-tools-breach-data-lessons</link>
+      <itunes:duration>00:36:19</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>EPISODE 269-New OSINT Tools &amp; Breach Data Lessons
+
+
+This week I release the new online OSINT tools, offer three lessons from new breach data, and address several updates from past shows.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to THIS episode below.
+
+
+
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+
+or Subscribe at: RSS / Apple / Stitcher  / Spotify / iHeart / Google
+
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+snap set anbox container.network.dns=1.1.1.1
+VM Tor update
+Mailspring Update
+
+
+NEW OSINT TOOLS:
+
+https://inteltechniques.com/tools/
+
+
+NEW BREACH DATA LESSONS:
+
+https://inteltechniques.com/blog/2022/07/05/new-breach-data-lesson-i-barcode-scanning/
+https://inteltechniques.com/blog/2022/07/06/new-breach-data-lesson-ii-stealer-logs/
+https://inteltechniques.com/blog/2022/07/07/new-breach-data-lesson-iii-investigations/
+
+Free Guides: https://inteltechniques.com/links.html
+
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+PIA Dedicated IP VPN: https://www.privateinternetaccess.com/ThePSOSHOW
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</itunes:summary>
+      <itunes:subtitle>EPISODE 269-New OSINT Tools &amp; Breach Data Lessons…</itunes:subtitle>
+      <description>EPISODE 269-New OSINT Tools &amp; Breach Data Lessons
+
+
+This week I release the new online OSINT tools, offer three lessons from new breach data, and address several updates from past shows.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to THIS episode below.
+
+
+
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+
+or Subscribe at: RSS / Apple / Stitcher  / Spotify / iHeart / Google
+
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+snap set anbox container.network.dns=1.1.1.1
+VM Tor update
+Mailspring Update
+
+
+NEW OSINT TOOLS:
+
+https://inteltechniques.com/tools/
+
+
+NEW BREACH DATA LESSONS:
+
+https://inteltechniques.com/blog/2022/07/05/new-breach-data-lesson-i-barcode-scanning/
+https://inteltechniques.com/blog/2022/07/06/new-breach-data-lesson-ii-stealer-logs/
+https://inteltechniques.com/blog/2022/07/07/new-breach-data-lesson-iii-investigations/
+
+Free Guides: https://inteltechniques.com/links.html
+
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+PIA Dedicated IP VPN: https://www.privateinternetaccess.com/ThePSOSHOW
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1301880907-user-98066669-269-new-osint-tools-breach-data-lessons.mp3" length="34877857"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xOUAxSkCZoGEI9gb-ArXzVQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1298009830</guid>
+      <title>268-CCW Permits, UNREDACTED 003, &amp; Linux Questions</title>
+      <pubDate>Fri, 01 Jul 2022 14:27:43 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/268-ccw-permits-unredacted-003-linux-questions</link>
+      <itunes:duration>00:42:44</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week I discuss the California CCW leak, release the latest issue of UNREDACTED Magazine, and answer several listeners' Linux questions.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+California Firearms Dashboard Portal
+https://inteltechniques.com/osintbook9
+https://unredactedmagazine.com/
+https://inteltechniques.com/blog/2022/06/29/snap-to-flatpak-on-ubuntu/
+
+LINUX QUESTIONS:
+
+Discussion
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+PIA Dedicated IP VPN: https://www.privateinternetaccess.com/ThePSOSHOW
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</itunes:summary>
+      <itunes:subtitle>This week I discuss the California CCW leak, rele…</itunes:subtitle>
+      <description>This week I discuss the California CCW leak, release the latest issue of UNREDACTED Magazine, and answer several listeners' Linux questions.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+California Firearms Dashboard Portal
+https://inteltechniques.com/osintbook9
+https://unredactedmagazine.com/
+https://inteltechniques.com/blog/2022/06/29/snap-to-flatpak-on-ubuntu/
+
+LINUX QUESTIONS:
+
+Discussion
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+PIA Dedicated IP VPN: https://www.privateinternetaccess.com/ThePSOSHOW
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1298009830-user-98066669-268-ccw-permits-unredacted-003-linux-questions.mp3" length="41025200"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xOUAxSkCZoGEI9gb-ArXzVQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1293651169</guid>
+      <title>267-macOS Privacy &amp; Security Revisited</title>
+      <pubDate>Fri, 24 Jun 2022 13:59:19 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/267-macos-privacy-security-revisited</link>
+      <itunes:duration>00:23:40</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week, after a lot of talk about Linux, I revisit privacy and security considerations for macOS machines.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+Tim Conway Jr.
+
+MACOS PRIVACY &amp; SECURITY REVISITED:
+
+Secure Boot
+Firmware password
+Online Certificate Status Protocol (OCSP)
+System Integrity Protection (SIP)
+Approved App Downloads
+Telemetry
+iCloud push
+Little Snitch
+Considerations
+
+Linux Q&amp;A
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+PIA Dedicated IP VPN: https://www.privateinternetaccess.com/ThePSOSHOW
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</itunes:summary>
+      <itunes:subtitle>This week, after a lot of talk about Linux, I rev…</itunes:subtitle>
+      <description>This week, after a lot of talk about Linux, I revisit privacy and security considerations for macOS machines.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+Tim Conway Jr.
+
+MACOS PRIVACY &amp; SECURITY REVISITED:
+
+Secure Boot
+Firmware password
+Online Certificate Status Protocol (OCSP)
+System Integrity Protection (SIP)
+Approved App Downloads
+Telemetry
+iCloud push
+Little Snitch
+Considerations
+
+Linux Q&amp;A
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+PIA Dedicated IP VPN: https://www.privateinternetaccess.com/ThePSOSHOW
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1293651169-user-98066669-267-macos-privacy-security-revisited.mp3" length="22722350"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xOUAxSkCZoGEI9gb-ArXzVQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1289366839</guid>
+      <title>266-The Sole Proprietorship</title>
+      <pubDate>Fri, 17 Jun 2022 13:54:16 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/266-the-sole-proprietorship</link>
+      <itunes:duration>00:26:43</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week, I explain the privacy benefits of a sole proprietorship with corresponding EIN.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+My Week
+
+THE SOLE PROPRIETORSHIP:
+
+Business purpose
+Privacy purpose
+Hurdles
+Taxes
+Aged DBAs
+Banking
+Linux Listener Questions
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+PIA Dedicated IP VPN: https://www.privateinternetaccess.com/ThePSOSHOW
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</itunes:summary>
+      <itunes:subtitle>This week, I explain the privacy benefits of a so…</itunes:subtitle>
+      <description>This week, I explain the privacy benefits of a sole proprietorship with corresponding EIN.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+My Week
+
+THE SOLE PROPRIETORSHIP:
+
+Business purpose
+Privacy purpose
+Hurdles
+Taxes
+Aged DBAs
+Banking
+Linux Listener Questions
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+PIA Dedicated IP VPN: https://www.privateinternetaccess.com/ThePSOSHOW
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1289366839-user-98066669-266-the-sole-proprietorship.mp3" length="25654333"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xOUAxSkCZoGEI9gb-ArXzVQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1284907711</guid>
+      <title>265-HP Dev One with Pop!_OS</title>
+      <pubDate>Fri, 10 Jun 2022 13:17:13 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/265-hp-dev-one-with-pop_os</link>
+      <itunes:duration>00:30:55</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week I get my hands on the new HP Dev One with Pop!_OS pre-installed and offer a full review.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+None
+
+HP DEV ONE WITH POP!_OS:
+
+https://hpdevone.com
+https://inteltechniques.com/blog/2022/06/10/hp-dev-one-with-pop_os/
+https://unredactedmagazine.com/
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+PIA Dedicated IP VPN: https://www.privateinternetaccess.com/ThePSOSHOW
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</itunes:summary>
+      <itunes:subtitle>This week I get my hands on the new HP Dev One wi…</itunes:subtitle>
+      <description>This week I get my hands on the new HP Dev One with Pop!_OS pre-installed and offer a full review.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+None
+
+HP DEV ONE WITH POP!_OS:
+
+https://hpdevone.com
+https://inteltechniques.com/blog/2022/06/10/hp-dev-one-with-pop_os/
+https://unredactedmagazine.com/
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+PIA Dedicated IP VPN: https://www.privateinternetaccess.com/ThePSOSHOW
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1284907711-user-98066669-265-hp-dev-one-with-pop_os.mp3" length="29689729"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xOUAxSkCZoGEI9gb-ArXzVQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1280439703</guid>
+      <title>264-Back to Basics-Linux I</title>
+      <pubDate>Fri, 03 Jun 2022 13:44:09 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/264-back-to-basics-linux-i</link>
+      <itunes:duration>00:45:35</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week we return to the basics and start with Linux. Whether you are ready to make the switch or have been using Linux for years, there is something here for everyone.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+https://UNREDACTEDmagazine.com
+Brave Junk Mail
+
+BACK TO BASICS-LINUX I:
+
+OS Decision
+Hardware Decision
+https://s76.co/System76Unredacted
+Linux Decision
+Apps
+DNS
+Next Month
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+PIA Dedicated IP VPN: https://www.privateinternetaccess.com/ThePSOSHOW
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</itunes:summary>
+      <itunes:subtitle>This week we return to the basics and start with …</itunes:subtitle>
+      <description>This week we return to the basics and start with Linux. Whether you are ready to make the switch or have been using Linux for years, there is something here for everyone.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+https://UNREDACTEDmagazine.com
+Brave Junk Mail
+
+BACK TO BASICS-LINUX I:
+
+OS Decision
+Hardware Decision
+https://s76.co/System76Unredacted
+Linux Decision
+Apps
+DNS
+Next Month
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+PIA Dedicated IP VPN: https://www.privateinternetaccess.com/ThePSOSHOW
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1280439703-user-98066669-264-back-to-basics-linux-i.mp3" length="43760743"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xOUAxSkCZoGEI9gb-ArXzVQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1276301293</guid>
+      <title>263-Proton Changes &amp; New Breach Lessons</title>
+      <pubDate>Fri, 27 May 2022 13:58:43 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/263-proton-changes-new-breach-lessons</link>
+      <itunes:duration>00:23:20</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week I discuss the latest Proton changes and some new breach data privacy concerns (and investigation benefits).
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+Barry
+
+NEWS &amp; UPDATES:
+
+Proton Updates
+Breach Lessons
+Seeking Articles
+Back to Basics: Linux I
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+PIA Dedicated IP VPN: https://www.privateinternetaccess.com/ThePSOSHOW
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</itunes:summary>
+      <itunes:subtitle>This week I discuss the latest Proton changes and…</itunes:subtitle>
+      <description>This week I discuss the latest Proton changes and some new breach data privacy concerns (and investigation benefits).
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+Barry
+
+NEWS &amp; UPDATES:
+
+Proton Updates
+Breach Lessons
+Seeking Articles
+Back to Basics: Linux I
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+PIA Dedicated IP VPN: https://www.privateinternetaccess.com/ThePSOSHOW
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1276301293-user-98066669-263-proton-changes-new-breach-lessons.mp3" length="22414732"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xOUAxSkCZoGEI9gb-ArXzVQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1272040822</guid>
+      <title>262-Brief Updates</title>
+      <pubDate>Fri, 20 May 2022 13:47:50 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/262-brief-updates</link>
+      <itunes:duration>00:16:48</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week I offer brief updates from the road.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+Barry
+
+NEWS &amp; UPDATES:
+
+https://UNREDACTEDmagazine.com
+https://twitter.com/IntelTechniques/status/1525477705478590464
+Signal forcing Google Captchas More Often
+Protonmail alternative routing enabled by default
+FairEmail / Netguard Removal
+https://taomm.org/
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+PIA Dedicated IP VPN: https://www.privateinternetaccess.com/ThePSOSHOW
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</itunes:summary>
+      <itunes:subtitle>This week I offer brief updates from the road.
+
+D…</itunes:subtitle>
+      <description>This week I offer brief updates from the road.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+Barry
+
+NEWS &amp; UPDATES:
+
+https://UNREDACTEDmagazine.com
+https://twitter.com/IntelTechniques/status/1525477705478590464
+Signal forcing Google Captchas More Often
+Protonmail alternative routing enabled by default
+FairEmail / Netguard Removal
+https://taomm.org/
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+PIA Dedicated IP VPN: https://www.privateinternetaccess.com/ThePSOSHOW
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1272040822-user-98066669-262-brief-updates.mp3" length="16134895"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xOUAxSkCZoGEI9gb-ArXzVQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1267622701</guid>
+      <title>261-A Client Stops By</title>
+      <pubDate>Fri, 13 May 2022 13:01:36 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/261-a-client-stops-by</link>
+      <itunes:duration>00:41:28</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week a client stops by to discuss his recent full privacy reboot, plus the latest news.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+RIP iPod Touch
+
+A CLIENT STOPS BY:
+
+&quot;Jonathan&quot;
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+PIA Dedicated IP VPN: https://www.privateinternetaccess.com/ThePSOSHOW
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</itunes:summary>
+      <itunes:subtitle>This week a client stops by to discuss his recent…</itunes:subtitle>
+      <description>This week a client stops by to discuss his recent full privacy reboot, plus the latest news.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to PAST episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+RIP iPod Touch
+
+A CLIENT STOPS BY:
+
+&quot;Jonathan&quot;
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+PIA Dedicated IP VPN: https://www.privateinternetaccess.com/ThePSOSHOW
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1267622701-user-98066669-261-a-client-stops-by.mp3" length="39819806"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xOUAxSkCZoGEI9gb-ArXzVQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1263335875</guid>
+      <title>260-Google's New Policy Change</title>
+      <pubDate>Fri, 06 May 2022 13:24:10 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/260-googles-new-policy-change</link>
+      <itunes:duration>00:34:43</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week I discuss Google's new data removal policy, the first issue of UNREDACTED Magazine, and numerous privacy &amp; OSINT updates.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to past episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+https://unredactedmagazine.com
+BOOX Feedback
+https://inteltechniques.com/osintbook9/
+https://inteltechniques.com/training.html
+https://inteltechniques.com/voip.suite.html
+https://amzn.to/3LWxgDW
+
+GOOGLE'S NEW POLICY CHANGE:
+
+https://support.google.com/websearch/answer/9673730
+https://blog.google/products/search/new-options-for-removing-your-personally-identifiable-information-from-search/
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+PIA Dedicated IP VPN: https://www.privateinternetaccess.com/ThePSOSHOW
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</itunes:summary>
+      <itunes:subtitle>This week I discuss Google's new data removal pol…</itunes:subtitle>
+      <description>This week I discuss Google's new data removal policy, the first issue of UNREDACTED Magazine, and numerous privacy &amp; OSINT updates.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to past episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+https://unredactedmagazine.com
+BOOX Feedback
+https://inteltechniques.com/osintbook9/
+https://inteltechniques.com/training.html
+https://inteltechniques.com/voip.suite.html
+https://amzn.to/3LWxgDW
+
+GOOGLE'S NEW POLICY CHANGE:
+
+https://support.google.com/websearch/answer/9673730
+https://blog.google/products/search/new-options-for-removing-your-personally-identifiable-information-from-search/
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+PIA Dedicated IP VPN: https://www.privateinternetaccess.com/ThePSOSHOW
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1263335875-user-98066669-260-googles-new-policy-change.mp3" length="33343528"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xOUAxSkCZoGEI9gb-ArXzVQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1259316220</guid>
+      <title>259-Leaving Kindle</title>
+      <pubDate>Fri, 29 Apr 2022 14:01:41 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/259-leaving-kindle</link>
+      <itunes:duration>00:43:07</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week I explain ways to leave Amazon's invasive eBook ecosystem and discuss a bunch of recent news.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to ALL episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+https://unredactedmagazine.com/
+https://ubuntu.com/blog/ubuntu-22-04-lts-released
+https://ctemplar.com/ctemplar-is-shutting-down/
+
+LEAVING KINDLE:
+
+https://shop.boox.com
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+PIA Dedicated IP VPN: https://www.privateinternetaccess.com/ThePSOSHOW
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</itunes:summary>
+      <itunes:subtitle>This week I explain ways to leave Amazon's invasi…</itunes:subtitle>
+      <description>This week I explain ways to leave Amazon's invasive eBook ecosystem and discuss a bunch of recent news.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to ALL episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+https://unredactedmagazine.com/
+https://ubuntu.com/blog/ubuntu-22-04-lts-released
+https://ctemplar.com/ctemplar-is-shutting-down/
+
+LEAVING KINDLE:
+
+https://shop.boox.com
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+PIA Dedicated IP VPN: https://www.privateinternetaccess.com/ThePSOSHOW
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1259316220-user-98066669-259-leaving-kindle.mp3" length="41401363"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xOUAxSkCZoGEI9gb-ArXzVQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1255002052</guid>
+      <title>258-Introducing UNREDACTED Magazine</title>
+      <pubDate>Fri, 22 Apr 2022 13:53:57 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/258-introducing-unredacted-magazine</link>
+      <itunes:duration>00:20:49</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week I announce our new privacy-themed magazine and present a warning about using Telnyx.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to ALL episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+VOIPSuite Outage
+Telnyx Warning
+MySudo Porting
+
+UNREDACTED MAGAZINE:
+
+https://unredactedmagazine.com/
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+PIA Dedicated IP VPN: https://www.privateinternetaccess.com/ThePSOSHOW
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</itunes:summary>
+      <itunes:subtitle>This week I announce our new privacy-themed magaz…</itunes:subtitle>
+      <description>This week I announce our new privacy-themed magazine and present a warning about using Telnyx.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to ALL episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+VOIPSuite Outage
+Telnyx Warning
+MySudo Porting
+
+UNREDACTED MAGAZINE:
+
+https://unredactedmagazine.com/
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+PIA Dedicated IP VPN: https://www.privateinternetaccess.com/ThePSOSHOW
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1255002052-user-98066669-258-introducing-unredacted-magazine.mp3" length="19996420"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xOUAxSkCZoGEI9gb-ArXzVQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1250747146</guid>
+      <title>257-Early Warning</title>
+      <pubDate>Fri, 15 Apr 2022 14:05:14 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/257-early-warning</link>
+      <itunes:duration>00:30:45</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week I discuss the risks of data sharing from Early Warning and present a new concern about privacy-themed companies accessing your email.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to ALL episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+Fly On The Wall
+
+NEWS &amp; UPDATES:
+
+https://www.justice.gov/usao-edva/pr/us-leads-seizure-one-world-s-largest-hacker-forums-and-arrests-administrator
+
+Automated Data Removal Services
+
+EARLY WARNING:
+
+https://www.earlywarning.com/consumer-information
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+PIA Dedicated IP VPN: https://www.privateinternetaccess.com/ThePSOSHOW
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</itunes:summary>
+      <itunes:subtitle>This week I discuss the risks of data sharing fro…</itunes:subtitle>
+      <description>This week I discuss the risks of data sharing from Early Warning and present a new concern about privacy-themed companies accessing your email.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Thank you for keeping this show ad-free and sponsor-free.
+
+Listen to ALL episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+Fly On The Wall
+
+NEWS &amp; UPDATES:
+
+https://www.justice.gov/usao-edva/pr/us-leads-seizure-one-world-s-largest-hacker-forums-and-arrests-administrator
+
+Automated Data Removal Services
+
+EARLY WARNING:
+
+https://www.earlywarning.com/consumer-information
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+PIA Dedicated IP VPN: https://www.privateinternetaccess.com/ThePSOSHOW
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1250747146-user-98066669-257-early-warning.mp3" length="29522963"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xOUAxSkCZoGEI9gb-ArXzVQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1242661957</guid>
+      <title>256-Extreme Privacy Fatigue</title>
+      <pubDate>Fri, 01 Apr 2022 14:50:42 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/256-extreme-privacy-fatigue</link>
+      <itunes:duration>00:33:45</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week I release the latest edition of Extreme Privacy and discuss some ways to deal with privacy fatigue.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Your support eliminates ads, sponsors, endorsements, branded merchandise, premium releases, donation requests, commercial influences, and other annoyances found within many podcasts. Thank you for keeping this show 100% about the content.
+
+Listen to ALL episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+None
+
+EXTREME PRIVACY 4:
+
+https://inteltechniques.com/book7.html
+https://amzn.to/3D6aiXp
+https://inteltechniques.com/requests.html
+https://inteltechniques.com/freeze.html
+https://inteltechniques.com/workbook.html
+https://inteltechniques.com/data/workbook.pdf
+https://inteltechniques.com/firewall/
+
+AVOIDING PRIVACY FATIGUE:
+
+1) Privacy is a marathon and not a sprint
+2) Define your scope
+3) Small steps
+4) Revisit accomplishments instead of agonize over exposure
+5) Don't rely on anyone but yourself
+6) Get off YouTube/Reddit/Matrix/Whatever
+7) Remember that perfect P&amp;S does not exist
+8) There are more important things out there
+9) It is ok Take a break when needed
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+PIA Dedicated IP VPN: https://www.privateinternetaccess.com/ThePSOSHOW
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</itunes:summary>
+      <itunes:subtitle>This week I release the latest edition of Extreme…</itunes:subtitle>
+      <description>This week I release the latest edition of Extreme Privacy and discuss some ways to deal with privacy fatigue.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Your support eliminates ads, sponsors, endorsements, branded merchandise, premium releases, donation requests, commercial influences, and other annoyances found within many podcasts. Thank you for keeping this show 100% about the content.
+
+Listen to ALL episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+None
+
+EXTREME PRIVACY 4:
+
+https://inteltechniques.com/book7.html
+https://amzn.to/3D6aiXp
+https://inteltechniques.com/requests.html
+https://inteltechniques.com/freeze.html
+https://inteltechniques.com/workbook.html
+https://inteltechniques.com/data/workbook.pdf
+https://inteltechniques.com/firewall/
+
+AVOIDING PRIVACY FATIGUE:
+
+1) Privacy is a marathon and not a sprint
+2) Define your scope
+3) Small steps
+4) Revisit accomplishments instead of agonize over exposure
+5) Don't rely on anyone but yourself
+6) Get off YouTube/Reddit/Matrix/Whatever
+7) Remember that perfect P&amp;S does not exist
+8) There are more important things out there
+9) It is ok Take a break when needed
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+PIA Dedicated IP VPN: https://www.privateinternetaccess.com/ThePSOSHOW
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1242661957-user-98066669-256-extreme-privacy-fatigue.mp3" length="32415659"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xOUAxSkCZoGEI9gb-ArXzVQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1238664745</guid>
+      <title>255-Dedicated VPN IP Addresses</title>
+      <pubDate>Fri, 25 Mar 2022 13:57:04 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/255-dedicated-vpn-ip-addresses</link>
+      <itunes:duration>00:33:58</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week I discuss the benefits of a dedicated VPN IP address, and an overall update to my thoughts on VPN providers.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Your support eliminates ads, sponsors, endorsements, branded merchandise, premium releases, donation requests, commercial influences, and other annoyances found within many podcasts. Thank you for keeping this show 100% about the content.
+
+Listen to ALL episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+Book update
+YoutubeDL Script
+https://home.treasury.gov/news/press-releases/jy0659
+https://www.scss.tcd.ie/doug.leith/privacyofdialerandsmsapps.pdf
+Amazon blocking VPNs
+
+DEDICATED VPN IP ADDRESSES:
+
+VPN summary
+Dedicated IPs
+https://www.privateinternetaccess.com/ThePSOSHOW
+https://inteltechniques.com/firewall/
+https://inteltechniques.com/vpn.html
+
+NEXT WEEK:
+
+https://inteltechniques.com/book7.html
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+PIA Dedicated IP VPN: https://www.privateinternetaccess.com/ThePSOSHOW
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</itunes:summary>
+      <itunes:subtitle>This week I discuss the benefits of a dedicated V…</itunes:subtitle>
+      <description>This week I discuss the benefits of a dedicated VPN IP address, and an overall update to my thoughts on VPN providers.
+
+Direct support for this podcast comes from our privacy services, online training, and new books for 2022: Extreme Privacy (4th Edition) and  Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Your support eliminates ads, sponsors, endorsements, branded merchandise, premium releases, donation requests, commercial influences, and other annoyances found within many podcasts. Thank you for keeping this show 100% about the content.
+
+Listen to ALL episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+Book update
+YoutubeDL Script
+https://home.treasury.gov/news/press-releases/jy0659
+https://www.scss.tcd.ie/doug.leith/privacyofdialerandsmsapps.pdf
+Amazon blocking VPNs
+
+DEDICATED VPN IP ADDRESSES:
+
+VPN summary
+Dedicated IPs
+https://www.privateinternetaccess.com/ThePSOSHOW
+https://inteltechniques.com/firewall/
+https://inteltechniques.com/vpn.html
+
+NEXT WEEK:
+
+https://inteltechniques.com/book7.html
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy (4th): https://amzn.to/3D6aiXp
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+PIA Dedicated IP VPN: https://www.privateinternetaccess.com/ThePSOSHOW
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1238664745-user-98066669-255-dedicated-vpn-ip-addresses.mp3" length="32610846"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xOUAxSkCZoGEI9gb-ArXzVQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1234617214</guid>
+      <title>254-OSINT+Fugitives=Rewards</title>
+      <pubDate>Fri, 18 Mar 2022 14:19:24 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/254-osintfugitivesrewards</link>
+      <itunes:duration>00:44:20</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week I release the previously-canceled show about finding fugitives with OSINT and collecting large rewards.
+
+Direct support for this podcast comes from our privacy services, online training, and new book: Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Your support eliminates ads, sponsors, endorsements, branded merchandise, premium releases, donation requests, commercial influences, and other annoyances found within many podcasts. Thank you for keeping this show 100% about the content.
+
+Listen to ALL episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+Fugitive show timeline
+
+NEWS &amp; UPDATES:
+
+Book Status
+Bitcoin payments
+https://inteltechniques.com/blog/2022/03/16/psa-be-careful-buying-gun-safes/
+
+OSINT+FUGITIVES=REWARDS:
+
+Conversation
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy: https://amzn.to/3eCjp7J
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</itunes:summary>
+      <itunes:subtitle>This week I release the previously-canceled show …</itunes:subtitle>
+      <description>This week I release the previously-canceled show about finding fugitives with OSINT and collecting large rewards.
+
+Direct support for this podcast comes from our privacy services, online training, and new book: Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Your support eliminates ads, sponsors, endorsements, branded merchandise, premium releases, donation requests, commercial influences, and other annoyances found within many podcasts. Thank you for keeping this show 100% about the content.
+
+Listen to ALL episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+Fugitive show timeline
+
+NEWS &amp; UPDATES:
+
+Book Status
+Bitcoin payments
+https://inteltechniques.com/blog/2022/03/16/psa-be-careful-buying-gun-safes/
+
+OSINT+FUGITIVES=REWARDS:
+
+Conversation
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy: https://amzn.to/3eCjp7J
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1234617214-user-98066669-254-osintfugitivesrewards.mp3" length="42567888"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xOUAxSkCZoGEI9gb-ArXzVQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1230556765</guid>
+      <title>253-Dash Cams</title>
+      <pubDate>Fri, 11 Mar 2022 16:05:15 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/253-dash-cams</link>
+      <itunes:duration>00:42:53</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week I discuss the security benefits of Dash Cams and my recommended usage.
+
+Direct support for this podcast comes from our privacy services, online training, and new book: Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Your support eliminates ads, sponsors, endorsements, branded merchandise, premium releases, donation requests, commercial influences, and other annoyances found within many podcasts. Thank you for keeping this show 100% about the content.
+
+Listen to ALL episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+Last week's show
+
+NEWS &amp; UPDATES:
+
+Firewall update
+Book announcement
+
+DASH CAMS:
+
+VIOFO A129 Plus https://amzn.to/3vGaZVY
+Nextbase 422GW https://amzn.to/35sz3Rx
+Garmin Dash Cam 57 https://amzn.to/3pDnRbg
+
+VIOFO A129 Pro https://amzn.to/3HJ3HCY
+Nextbase 622GW https://amzn.to/3vCNAol
+
+VIOFO A129 Plus Duo https://amzn.to/3HCCJNu
+Nextbase 422GW https://amzn.to/3Cf0FWa
+
+VIOFO A128 Pro Duo https://amzn.to/3vFyQ80
+Nextbase 622GW https://amzn.to/3IJU2NZ
+
+Garmin DashCam Tandem https://amzn.to/3vFHL9J
+
+Nextbase Rear Window add-on https://amzn.to/3pDWYUQ
+Nextbase Cabin add-on https://amzn.to/3hE1hem
+Nextbase Rearview add-on https://amzn.to/3HIKjWY
+SanDisk Max Endurance https://amzn.to/3vBX2YT
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy: https://amzn.to/3eCjp7J
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</itunes:summary>
+      <itunes:subtitle>This week I discuss the security benefits of Dash…</itunes:subtitle>
+      <description>This week I discuss the security benefits of Dash Cams and my recommended usage.
+
+Direct support for this podcast comes from our privacy services, online training, and new book: Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Your support eliminates ads, sponsors, endorsements, branded merchandise, premium releases, donation requests, commercial influences, and other annoyances found within many podcasts. Thank you for keeping this show 100% about the content.
+
+Listen to ALL episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+Last week's show
+
+NEWS &amp; UPDATES:
+
+Firewall update
+Book announcement
+
+DASH CAMS:
+
+VIOFO A129 Plus https://amzn.to/3vGaZVY
+Nextbase 422GW https://amzn.to/35sz3Rx
+Garmin Dash Cam 57 https://amzn.to/3pDnRbg
+
+VIOFO A129 Pro https://amzn.to/3HJ3HCY
+Nextbase 622GW https://amzn.to/3vCNAol
+
+VIOFO A129 Plus Duo https://amzn.to/3HCCJNu
+Nextbase 422GW https://amzn.to/3Cf0FWa
+
+VIOFO A128 Pro Duo https://amzn.to/3vFyQ80
+Nextbase 622GW https://amzn.to/3IJU2NZ
+
+Garmin DashCam Tandem https://amzn.to/3vFHL9J
+
+Nextbase Rear Window add-on https://amzn.to/3pDWYUQ
+Nextbase Cabin add-on https://amzn.to/3hE1hem
+Nextbase Rearview add-on https://amzn.to/3HIKjWY
+SanDisk Max Endurance https://amzn.to/3vBX2YT
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy: https://amzn.to/3eCjp7J
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1230556765-user-98066669-253-dash-cams.mp3" length="41179009"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xOUAxSkCZoGEI9gb-ArXzVQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1222391011</guid>
+      <title>252-Secure Communications Conversion</title>
+      <pubDate>Fri, 25 Feb 2022 15:28:09 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/252-secure-communications-conversion</link>
+      <itunes:duration>00:28:31</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week I discuss new conversion methods which encourage others in your life to start using secure messaging instead of SMS, plus the latest privacy news.
+
+Direct support for this podcast comes from our privacy services, online training, and new book: Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Your support eliminates ads, sponsors, endorsements, branded merchandise, premium releases, donation requests, commercial influences, and other annoyances found within many podcasts. Thank you for keeping this show 100% about the content.
+
+Listen to ALL episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+COVID Vaccine Details Leaked
+OSINT9 Updates &amp; Corrections
+VPS Account Suspensions
+
+SECURE COMMUNICATIONS CONVERSION:
+
+The Polite Request
+The Response Delay
+The FOMO
+The Daily Reward
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy: https://amzn.to/3eCjp7J
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</itunes:summary>
+      <itunes:subtitle>This week I discuss new conversion methods which …</itunes:subtitle>
+      <description>This week I discuss new conversion methods which encourage others in your life to start using secure messaging instead of SMS, plus the latest privacy news.
+
+Direct support for this podcast comes from our privacy services, online training, and new book: Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Your support eliminates ads, sponsors, endorsements, branded merchandise, premium releases, donation requests, commercial influences, and other annoyances found within many podcasts. Thank you for keeping this show 100% about the content.
+
+Listen to ALL episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+COVID Vaccine Details Leaked
+OSINT9 Updates &amp; Corrections
+VPS Account Suspensions
+
+SECURE COMMUNICATIONS CONVERSION:
+
+The Polite Request
+The Response Delay
+The FOMO
+The Daily Reward
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy: https://amzn.to/3eCjp7J
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1222391011-user-98066669-252-secure-communications-conversion.mp3" length="27382177"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xOUAxSkCZoGEI9gb-ArXzVQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1218269194</guid>
+      <title>251-Six Important Show Updates</title>
+      <pubDate>Fri, 18 Feb 2022 15:30:06 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/251-six-important-show-updates</link>
+      <itunes:duration>00:23:01</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week I offer several show updates surrounding Retail Equation, pfSense, OSINT prosecution, Coinbase spam, silent AirTags, and podcast blocks.
+
+Direct support for this podcast comes from our privacy services, online training, and new book: Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Your support eliminates any ads, sponsors, endorsements, Patreon, donations, or commercial influence on this show.
+
+Listen to ALL episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+Retail Equation Feedback
+https://www.consumerfinance.gov/complaint/
+https://inteltechniques.com/firewall/
+OSINT Prosecution
+Coinbase Spam
+Silent AirTags
+Soundcloud Blocking Uploads
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy: https://amzn.to/3eCjp7J
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</itunes:summary>
+      <itunes:subtitle>This week I offer several show updates surroundin…</itunes:subtitle>
+      <description>This week I offer several show updates surrounding Retail Equation, pfSense, OSINT prosecution, Coinbase spam, silent AirTags, and podcast blocks.
+
+Direct support for this podcast comes from our privacy services, online training, and new book: Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Your support eliminates any ads, sponsors, endorsements, Patreon, donations, or commercial influence on this show.
+
+Listen to ALL episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+Retail Equation Feedback
+https://www.consumerfinance.gov/complaint/
+https://inteltechniques.com/firewall/
+OSINT Prosecution
+Coinbase Spam
+Silent AirTags
+Soundcloud Blocking Uploads
+
+Free Guides: https://inteltechniques.com/links.html
+
+Affiliate Links:
+Extreme Privacy: https://amzn.to/3eCjp7J
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1218269194-user-98066669-251-six-important-show-updates.mp3" length="22098754"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xOUAxSkCZoGEI9gb-ArXzVQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1214043556</guid>
+      <title>250-Consequences of Product Refunds</title>
+      <pubDate>Fri, 11 Feb 2022 14:43:26 +0000</pubDate>
+      <link>https://soundcloud.com/user-98066669/250-consequences-of-product-refunds</link>
+      <itunes:duration>00:23:30</itunes:duration>
+      <itunes:author>Michael Bazzell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>EPISODE 250-Consequences of Product Refunds
+
+This week I discuss the ways your store refunds are monitored and used against you, plus a new flag-planting lesson regarding vehicle insurance companies.
+
+Direct support for this podcast comes from our privacy services, online training, and new book: Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Your support eliminates any ads, sponsors, endorsements, Patreon, donations, or commercial influence on this show.
+
+Listen to ALL episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+IRS to eliminate Id.me
+Hardcover books
+https://protonmail.com/blog/penetration-tests/
+https://inteltechniques.com/proton/
+
+CONSEQUENCES OF PRODUCT REFUNDS:
+
+Retail Equation
+Return Activity Report (RAR)
+1-800-652-2331
+
+PLANT YOUR FLAG: VEHICLE INSURANCE:
+
+Discussion
+
+Free Workbooks: https://inteltechniques.com/links.html
+
+Affiliate Links:
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</itunes:summary>
+      <itunes:subtitle>EPISODE 250-Consequences of Product Refunds
+
+This…</itunes:subtitle>
+      <description>EPISODE 250-Consequences of Product Refunds
+
+This week I discuss the ways your store refunds are monitored and used against you, plus a new flag-planting lesson regarding vehicle insurance companies.
+
+Direct support for this podcast comes from our privacy services, online training, and new book: Open Source Intelligence Techniques (9th Edition). More details can be found at IntelTechniques.com. Your support eliminates any ads, sponsors, endorsements, Patreon, donations, or commercial influence on this show.
+
+Listen to ALL episodes at https://inteltechniques.com/podcast.html
+
+SHOW NOTES:
+
+INTRO:
+
+None
+
+NEWS &amp; UPDATES:
+
+IRS to eliminate Id.me
+Hardcover books
+https://protonmail.com/blog/penetration-tests/
+https://inteltechniques.com/proton/
+
+CONSEQUENCES OF PRODUCT REFUNDS:
+
+Retail Equation
+Return Activity Report (RAR)
+1-800-652-2331
+
+PLANT YOUR FLAG: VEHICLE INSURANCE:
+
+Discussion
+
+Free Workbooks: https://inteltechniques.com/links.html
+
+Affiliate Links:
+ProtonVPN: https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1519&amp;url_id=277
+ProtonMail: https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=1519
+SimpleLogin Masked Email: https://simplelogin.io?slref=osint
+Silent Pocket Bags &amp; Wallets: https://slnt.com/discount/IntelTechniques</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1214043556-user-98066669-250-consequences-of-product-refunds.mp3" length="22572720"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xOUAxSkCZoGEI9gb-ArXzVQ-t3000x3000.jpg"/>
+    </item>
+      </channel>
+    </rss>
